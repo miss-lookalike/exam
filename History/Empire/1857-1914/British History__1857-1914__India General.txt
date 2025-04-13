@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+"When were Delhi Durbar's&nbsp;
+<br><br>
+"	"1877, 1903, 1911<br>
+<br><br>
+
+<br><br>
+"
+"How many were killed in Delhi during the mutiny
+<br><br>
+"	"1400
+<br><br>
+
+<br><br>
+"
+"Total death count of mutiny
+<br><br>
+"	"100,000 roughly
+<br><br>
+
+<br><br>
+"
+"What did John Darwin call the response to the Indian mutiny
+<br><br>
+"	"'Second Conquest'
+<br><br>
+
+<br><br>
+"
+"How much Railway by 1890
+<br><br>
+"	"16,000 miles
+<br><br>
+
+<br><br>
+"

@@ -1,0 +1,562 @@
+#separator:tab
+#html:true
+"when was giqua land west annexed?
+<br><br>
+"	"1871
+<br><br>
+
+<br><br>
+"
+"When were diamonds discovered in South Africa?
+<br><br>
+"	"1867
+<br><br>
+
+<br><br>
+"
+"when was gold discovered in the transvaal?
+<br><br>
+"	"1886
+<br><br>
+
+<br><br>
+"
+"When was the Boer War?
+<br><br>
+"	"1899-1902
+<br><br>
+
+<br><br>
+"
+"how much was the nigerian gin trade worth? when?
+<br><br>
+"	"£1.2 million, 1908
+<br><br>
+
+<br><br>
+"
+"who was deposed in egypt, and who replaced them? when?
+<br><br>
+"	"ismail pasha by the military, replaced by arabi pasha in 1879 who was hostile towards european demands
+<br><br>
+
+<br><br>
+"
+"when did the british begin occupying egypt?
+<br><br>
+"	"aug 1882
+<br><br>
+
+<br><br>
+"
+"quote for hobson, economic
+<br><br>
+"	"to safeguard and improve their existing investments
+<br><br>
+
+<br><br>
+"
+"quote for lenin, economic
+<br><br>
+"	"imperialism... we must define it as capitalism in transition
+<br><br>
+
+<br><br>
+"
+"quote for hobsbawm
+<br><br>
+"	"the attempts to devise a purely non-economic explanation of the 'new imperialism' is unrealistic
+<br><br>
+
+<br><br>
+"
+"what was british somaliland known as, and when did it become a protectorate?
+<br><br>
+"	"Aden's butcher, 1888
+<br><br>
+
+<br><br>
+"
+"When did Uganda become a protectorate?
+<br><br>
+"	"1894
+<br><br>
+
+<br><br>
+"
+"when did sudan become an anglo-egyptian condiminium?
+<br><br>
+"	"1899
+<br><br>
+
+<br><br>
+"
+"when did kenya become a protectorate?
+<br><br>
+"	"1895
+<br><br>
+
+<br><br>
+"
+"when was the ugandan railway built?
+<br><br>
+"	"1903
+<br><br>
+
+<br><br>
+"
+"When was Bechuanaland annexed and why?
+<br><br>
+"	"1885, because it separated the transvaal and german south west africa because the british were worried about a germanic-boer alliance
+<br><br>
+
+<br><br>
+"
+"quote for gallagher and robinson, anti-economic
+<br><br>
+"	"late victorians seemed to be concentrating their imperial effort in the continent of least importance to their prosperity
+<br><br>
+
+<br><br>
+"
+"quote for gallagher and robinson, strategic
+<br><br>
+"	"because its aims were essentially defensive and strategic
+<br><br>
+
+<br><br>
+"
+"when did zanzibar become a protectorate
+<br><br>
+"	"1890
+<br><br>
+
+<br><br>
+"
+"when was giqua land west annexed?
+<br><br>
+"	"1871
+<br><br>
+
+<br><br>
+"
+"When were diamonds discovered in South Africa?
+<br><br>
+"	"1867
+<br><br>
+
+<br><br>
+"
+"when was gold discovered in the transvaal?
+<br><br>
+"	"1886
+<br><br>
+
+<br><br>
+"
+"When was the Boer War?
+<br><br>
+"	"1899-1902
+<br><br>
+
+<br><br>
+"
+"how much was the nigerian gin trade worth? when?
+<br><br>
+"	"£1.2 million, 1908
+<br><br>
+
+<br><br>
+"
+"who was deposed in egypt, and who replaced them? when?
+<br><br>
+"	"ismail pasha by the military, replaced by arabi pasha in 1879 who was hostile towards european demands
+<br><br>
+
+<br><br>
+"
+"when did the british begin occupying egypt?
+<br><br>
+"	"aug 1882
+<br><br>
+
+<br><br>
+"
+"quote for hobson, economic
+<br><br>
+"	"to safeguard and improve their existing investments
+<br><br>
+
+<br><br>
+"
+"quote for lenin, economic
+<br><br>
+"	"imperialism... we must define it as capitalism in transition
+<br><br>
+
+<br><br>
+"
+"quote for hobsbawm
+<br><br>
+"	"the attempts to devise a purely non-economic explanation of the 'new imperialism' is unrealistic
+<br><br>
+
+<br><br>
+"
+"what was british somaliland known as, and when did it become a protectorate?
+<br><br>
+"	"Aden's butcher, 1888
+<br><br>
+
+<br><br>
+"
+"When did Uganda become a protectorate?
+<br><br>
+"	"1894
+<br><br>
+
+<br><br>
+"
+"when did sudan become an anglo-egyptian condiminium?
+<br><br>
+"	"1899
+<br><br>
+
+<br><br>
+"
+"when did kenya become a protectorate?
+<br><br>
+"	"1895
+<br><br>
+
+<br><br>
+"
+"when was the ugandan railway built?
+<br><br>
+"	"1903
+<br><br>
+
+<br><br>
+"
+"When was Bechuanaland annexed and why?
+<br><br>
+"	"1885, because it separated the transvaal and german south west africa because the british were worried about a germanic-boer alliance
+<br><br>
+
+<br><br>
+"
+"quote for gallagher and robinson, anti-economic
+<br><br>
+"	"late victorians seemed to be concentrating their imperial effort in the continent of least importance to their prosperity
+<br><br>
+
+<br><br>
+"
+"quote for gallagher and robinson, strategic
+<br><br>
+"	"because its aims were essentially defensive and strategic
+<br><br>
+
+<br><br>
+"
+"when did zanzibar become a protectorate
+<br><br>
+"	"1890
+<br><br>
+
+<br><br>
+"
+"what form of rule was est in nigeria and why
+<br><br>
+"	"dual control was established, partially to stop the slave trade
+<br><br>
+
+<br><br>
+"
+"quote for simms, strategic
+<br><br>
+"	"to secure man power... that could be deployed against european rivals
+<br><br>
+
+<br><br>
+"
+"where was there particular missionary success?
+<br><br>
+"	"sierra leone, they also worked on westernising them through education. educated class became rebellious
+<br><br>
+
+<br><br>
+"
+"slave trade in east/west?
+<br><br>
+"	"west- remnants of trans atlantic slave trade, portuguese still taking part, east-arab slave trade especially in zanzibar
+<br><br>
+
+<br><br>
+"
+"quote for hyam, moral/religious
+<br><br>
+"	"to a remarkable extent the ideological motive for expansion was religious
+<br><br>
+
+<br><br>
+"
+"quote for mccaskie
+<br><br>
+"	"underpinned by the sedulous rise of pseudo-scientific racism
+<br><br>
+
+<br><br>
+"
+"quote for chamberlain, moral
+<br><br>
+"	"the belief that 'it was benefitting the 'backward' native'
+<br><br>
+
+<br><br>
+"
+"when and why was the ugandan civil war
+<br><br>
+"	"1894, partially due to european missionary activity destabilising it
+<br><br>
+
+<br><br>
+"
+"what conflicts were in the gold coast?
+<br><br>
+"	"anglo-ashanti tribe. in 1896 the 4th war resulted in the removal of the king and annexation of ashanti land
+<br><br>
+
+<br><br>
+"
+"When was the Mahdist rebellion in Sudan?
+<br><br>
+"	"1881
+<br><br>
+
+<br><br>
+"
+"when did britain try to fight the mahdists in sudan?
+<br><br>
+"	"1882 -1885 when they retreated
+<br><br>
+
+<br><br>
+"
+"why did britain return to sudan?
+<br><br>
+"	"importance of the upper-nile, and other european countries expanding into africa worried them
+<br><br>
+
+<br><br>
+"
+"when was lord kitchener's campaign and when was the battle of [blank]?
+<br><br>
+"	"1896-98, battle of omdurman 1898 which was a display of power of the maxim gun
+<br><br>
+
+<br><br>
+"
+"who was sir william mackinnon
+<br><br>
+"	"founder of imperial british east africa country, which was given a royal charter
+<br><br>
+
+<br><br>
+"
+"who was sir george goldie?
+<br><br>
+"	"founder of united/national african company, 1879. chartered in 1886 and became royal niger company
+<br><br>
+
+<br><br>
+"
+"who was lord lugard
+<br><br>
+"	"governor of niger, ruled with dual mandate which meant very little westernisation
+<br><br>
+
+<br><br>
+"
+"Who was Cecil Rhodes?
+<br><br>
+"	"pm of cape colony 1890-96. very successful business man in diamond trades in south africa. big supporter of british expansion, wanted a railway to connect cape to cairo
+<br><br>
+
+<br><br>
+"
+"what % of diamonds did rhodes have control over? what was his company called?
+<br><br>
+"	"85%, de beers
+<br><br>
+
+<br><br>
+"
+"What was the Rudd Concession?
+<br><br>
+"	"imposed on king lobengula of the ndebele/matabele tribe, stated that rhodes/BSAC now had ultimate rights over his kingdom
+<br><br>
+
+<br><br>
+"
+"what were the rhodesias?
+<br><br>
+"	"Matabeleland and mashonaland taken and renamed after rhodes
+<br><br>
+
+<br><br>
+"
+"quote from chamberlain, multi concerns
+<br><br>
+"	"over arching theories are still in retreat before multi causal explanations
+<br><br>
+
+<br><br>
+"
+"what form of rule was est in nigeria and why
+<br><br>
+"	"dual control was established, partially to stop the slave trade
+<br><br>
+
+<br><br>
+"
+"quote for simms, strategic
+<br><br>
+"	"to secure man power... that could be deployed against european rivals
+<br><br>
+
+<br><br>
+"
+"where was there particular missionary success?
+<br><br>
+"	"sierra leone, they also worked on westernising them through education. educated class became rebellious
+<br><br>
+
+<br><br>
+"
+"slave trade in east/west?
+<br><br>
+"	"west- remnants of trans atlantic slave trade, portuguese still taking part, east-arab slave trade especially in zanzibar
+<br><br>
+
+<br><br>
+"
+"quote for hyam, moral/religious
+<br><br>
+"	"to a remarkable extent the ideological motive for expansion was religious
+<br><br>
+
+<br><br>
+"
+"quote for mccaskie
+<br><br>
+"	"underpinned by the sedulous rise of pseudo-scientific racism
+<br><br>
+
+<br><br>
+"
+"quote for chamberlain, moral
+<br><br>
+"	"the belief that 'it was benefitting the 'backward' native'
+<br><br>
+
+<br><br>
+"
+"when and why was the ugandan civil war
+<br><br>
+"	"1894, partially due to european missionary activity destabilising it
+<br><br>
+
+<br><br>
+"
+"what conflicts were in the gold coast?
+<br><br>
+"	"anglo-ashanti tribe. in 1896 the 4th war resulted in the removal of the king and annexation of ashanti land
+<br><br>
+
+<br><br>
+"
+"When was the Mahdist rebellion in Sudan?
+<br><br>
+"	"1881
+<br><br>
+
+<br><br>
+"
+"when did britain try to fight the mahdists in sudan?
+<br><br>
+"	"1882 -1885 when they retreated
+<br><br>
+
+<br><br>
+"
+"why did britain return to sudan?
+<br><br>
+"	"importance of the upper-nile, and other european countries expanding into africa worried them
+<br><br>
+
+<br><br>
+"
+"when was lord kitchener's campaign and when was the battle of [blank]?
+<br><br>
+"	"1896-98, battle of omdurman 1898 which was a display of power of the maxim gun
+<br><br>
+
+<br><br>
+"
+"who was sir william mackinnon
+<br><br>
+"	"founder of imperial british east africa country, which was given a royal charter
+<br><br>
+
+<br><br>
+"
+"who was sir george goldie?
+<br><br>
+"	"founder of united/national african company, 1879. chartered in 1886 and became royal niger company
+<br><br>
+
+<br><br>
+"
+"who was lord lugard
+<br><br>
+"	"governor of niger, ruled with dual mandate which meant very little westernisation
+<br><br>
+
+<br><br>
+"
+"Who was Cecil Rhodes?
+<br><br>
+"	"pm of cape colony 1890-96. very successful business man in diamond trades in south africa. big supporter of british expansion, wanted a railway to connect cape to cairo
+<br><br>
+
+<br><br>
+"
+"what % of diamonds did rhodes have control over? what was his company called?
+<br><br>
+"	"85%, de beers
+<br><br>
+
+<br><br>
+"
+"What was the Rudd Concession?
+<br><br>
+"	"imposed on king lobengula of the ndebele/matabele tribe, stated that rhodes/BSAC now had ultimate rights over his kingdom
+<br><br>
+
+<br><br>
+"
+"what were the rhodesias?
+<br><br>
+"	"Matabeleland and mashonaland taken and renamed after rhodes
+<br><br>
+
+<br><br>
+"
+"quote from chamberlain, multi concerns
+<br><br>
+"	"over arching theories are still in retreat before multi causal explanations
+<br><br>
+
+<br><br>
+"
