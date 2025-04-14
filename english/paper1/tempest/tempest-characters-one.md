@@ -1,0 +1,11 @@
+- Alonso - King of Naples. Helped [[Antonio]] overthrow his brother [[Prospero]]. Has a son called [[Ferdinand]].
+- Sebastian - Brother to [[Alonso]].
+- Prospero - Rightful Duke of Milan but was usurped by his brother [[Antonio]]. Father to [[Miranda]]. Employs [[Ariel]] and [[Caliban]].
+- Antonio - Brother of [[Prospero]] and usurping Duke of Milan. Was assisted by [[Alonso]] in his usurping.
+- Ariel - Employed by [[Prospero]] on the island. Represents water, air and fire. Lacks a set gender in casting and during the play due to being a spirit.
+- Caliban Employed by [[Prospero]], on the island. Represents earth. Described in the first folio (By Ralph Crane) as a "savage and deformed slave". Caliban is frequently explored due to his power imbalance with Prospero. In modern scholarship he is seen as a slave and examined through a post colonial lens. Caliban is a denizen of the new world - Frank Kermode (famous 20th century critic) essay in the Arden edition in the 1950s
+- Miranda - Daughter to [[Prospero]], in exile with him. Will marry to [[Ferdinand]] to unite Naples ([[Alonso]] and [[Ferdinand]]) and Milan ([[Prospero]] and [[Miranda]]). Hyper-empath - [[tempest-scene-2|Scene 2]], [[tempest-1.2]]. Miranda comes from Latin "miror" which means wonder
+- Ferdinand - Son of [[Alonso]]. Will marry to [[Miranda]] to unite Naples([[Alonso]] and [[Ferdinand]]) and Milan ([[Prospero]] and [[Miranda]]).
+- Gonzalo - First folio: 'Honest old councillor' - idea of official position in kings council but also 'one who gives advice'. Both are present in Gonzalo
+- Trinculo - A jester
+- Stephano - A drunkard

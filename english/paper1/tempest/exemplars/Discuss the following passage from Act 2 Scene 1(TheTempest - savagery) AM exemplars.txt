@@ -1,0 +1,151 @@
+﻿(a) Discuss the following passage from Act 2 Scene 1, exploring Shakespeare's use of language and its dramatic effects. [15] 
+Antonio. ...Will you grant with me
+That Ferdinand is drown'd?
+Sebastian.                         He's gone.
+Antonio.                                             Then, tell me,
+Who's the next heir of Naples?
+Sebastian.                                Claribel.
+Antonio. She that is queen of Tunis; she that dwells
+Ten leagues beyond man's life; she that from Naples			5
+Can have no note, unless the sun were post-
+The man i' the moon's too slow-till new-born chins
+Be rough and razorable; she that-from whom?
+We all were sea-swallow'd, though some cast again,
+And by that destiny to perform an act					10	
+Whereof what's past is prologue, what to come
+In yours and my discharge.
+Sebastian. What stuff is this! how say you?
+'Tis true, my brother's daughter's queen of Tunis;
+So is she heir of Naples; 'twixt which regions				15
+There is some space.
+Antonio.                     A space whose every cubit
+Seems to cry out, 'How shall that Claribel
+Measure us back to Naples? Keep in Tunis,
+And let Sebastian wake.' Say, this were death
+That now hath seized them; why, they were no worse			20
+Than now they are. There be that can rule Naples
+As well as he that sleeps; lords that can prate
+As amply and unnecessarily
+As this Gonzalo; I myself could make
+A chough of as deep chat. O, that you bore				25
+The mind that I do! what a sleep were this
+For your advancement! Do you understand me?
+Sebastian. Methinks I do.
+Antonio.                              And how does your content
+Tender your own good fortune?
+Sebastian.                                  I remember
+You did supplant your brother Prospero.					
+Antonio.                                                 True:					30
+And look how well my garments sit upon me;
+Much feater than before: my brother's servants
+Were then my fellows; now they are my men.
+Sebastian. But, for your conscience?
+Antonio. Ay, sir; where lies that? if 'twere a kibe,					35
+'Twould put me to my slipper: but I feel not
+This deity in my bosom: twenty consciences,
+That stand 'twixt me and Milan, candied be they
+And melt ere they molest! Here lies your brother,
+No better than the earth he lies upon,						40
+If he were that which now he's like, that's dead;
+Whom I, with this obedient steel, three inches of it,
+Can lay to bed for ever; whiles you, doing thus,
+To the perpetual wink for aye might put
+This ancient morsel, this Sir Prudence, who					45
+Should not upbraid our course. For all the rest,
+They'll take suggestion as a cat laps milk;
+They'll tell the clock to any business that
+We say befits the hour.
+Sebastian.                   Thy case, dear friend,
+Shall be my precedent; as thou got'st Milan,					50
+I'll come by Naples. Draw thy sword: one stroke
+Shall free thee from the tribute which thou payest;
+And I the king shall love thee.
+Antonio.                                 Draw together;
+And when I rear my hand, do you the like,
+To fall it on Gonzalo.
+Sebastian.                 O, but one word.						55
+[They talk apart]
+[Re-enter ARIEL, invisible]
+Ariel. My master through his art foresees the danger
+That you, his friend, are in; and sends me forth-
+For else his project dies-to keep them living.
+[Sings in GONZALO's ear]
+While you here do snoring lie,
+Open-eyed conspiracy									60
+      His time doth take.
+If of life you keep a care,
+Shake off slumber, and beware:
+      Awake, awake!									
+Antonio. Then let us both be sudden.						65
+Gonzalo. Now, good angels preserve the king.
+[They wake]
+Alonso. Why, how now? ho, awake! Why are you drawn?
+Wherefore this ghastly looking?
+Gonzalo.                                  What's the matter?				
+Sebastian. Whiles we stood here securing your repose,
+Even now, we heard a hollow burst of bellowing					70
+Like bulls, or rather lions: did't not wake you?
+It struck mine ear most terribly.
+Alonso.                                     I heard nothing...
+
+For Shakespeare's 17th century audience, this is likely to have been a terrifying scene as it dramatizes the terrible effects that can be wrought on the social fabric by those who seem devoid of morality. The unseating of Prospero from the Dukedom of Milan by his brother, Antonio, may take place before the play opens, but the usurpation of a legitimate sovereign is an act of such terrible consequence that its effects ripple through the play's action. Antonio's actions sets a terrible precedent and Sebastian - younger brother of Alonso, the King of Naples - is quick to draw the moral: "...Thy case, dear friend,/Shall be my precedent; as thou got'st Milan,/I'll come by Naples..." (The Tempest, II.i.50-51). Antonio seems entirely without scruple. When Sebastian asks Antonio if he has any ethical concerns when he is contemplating regicide, the exchange between the two is a significant one: 
+
+Sebastian. But, for your conscience?                                                      Antonio. Ay, sir; where lies that? if 'twere a kibe,
+'Twould put me to my slipper: but I feel not
+This deity in my bosom...
+
+Amoral characters like Antonio stalk early modern Tragedies (Edmund in King Lear; Iago in Othello; Bosola in The Duchess of Malfi): these characters' lack of interest in ethical matters and the threat that this amorality offers to the established social order is frequently represented on the early modern stage. Antonio is a terrifying figure as moral claims seem to have no purchase on his personal behaviour whatsoever. (Antonio's silence in the play's final scene when he is pardoned by Prospero is deafening.). In the above passage Antonio explains to Sebastian that as he will experience no physical pain in killing the King (it is not, after all, as if he were walking with a chilblain - "a kibe" - on his foot), the action itself cannot be wrong. So, moral values having been abandoned, what does Antonio put in their place? He replaces ethics with naked self-interest and invites Sebastian to do the same. Significantly, though, he speaks of King Alonso's death in euphemistic terms - "...what a sleep were this/For your advancement!..." The brute fact of regicide is replaced by "sleep"; ideals of Divine sovereignty and the ethical duties that a subject owes to his King are replaced by ideas of self-"advancement". Interestingly, though, despite the ease with which the killing of King Alonso is imagined in this scene ("...one stroke/Shall free thee from the tribute which thou payest..."), the two villains are unable to speak of regicide directly, preferring to deal in euphemisms - the comparison to sleep seems to be reassuring for them - "...Say, this were death/That now hath seized them; why, they were no worse/Than now they are..." - rather neglecting this is a "sleep" from which Alonso and Gonzalo will never awake. 
+
+The way in which human compassion and empathy is replaced with a transactional tendency is exactly reproduced in the next scene in the play (II.ii) when Trinculo encounters Caliban for the first time. Just as Antonio is prepared to ignore Alonso's humanity so is Trinculo unwilling to acknowledge the humanity of Caliban -
+
+"...Were I in England now, as once I was, and had but this fish painted,
+not a holiday fool there but would give a piece of silver..." (II.ii.25-27)	
+
+- instead, Trinculo simply sees the islander ("this fish") as a means of making money. The play seems to dramatize two opposing views of the world: one sees our fellow creatures in purely transactional, or instrumental terms; the other sees the world as a magical, enchanted place where miracles are possible and life is accompanied by wonders ("...Now, good angels preserve the king...").
+
+Disaster is only averted in this scene because of Prospero's seeming omniscience:
+
+Ariel. My master through his art foresees the danger
+That you, his friend, are in; and sends me forth-
+For else his project dies-to keep them living...
+
+The "friend" referred to in Ariel's speech is, of course, Gonzalo, "an honest old councillor", who is to be regarded, I think, as the moral centre of the play. Productions are, significantly, less successful when Gonzalo's wisdom is subordinated to his credulity: in the Julie Taymor 2010 film version Tom Conti played him - greatly to the film's detriment - as a blinking idiot. In Conti's hands Gonzalo was less "an honest old councillor" than one who "mist[ook] the truth totally" (Sebastian, II.i.55).   
+
+Playing Gonzalo as simply foolish misses the fact that it is he that is favoured by Prospero - and thus awakened by Ariel - while King Alonso, still blind to his good fortune, "hear[s] nothing". This scene in the play subtly communicates the play's moral hierarchy: if Antonio and Sebastian are, despite their noble status, at the bottom, then Gonzalo, The Good Servant, is very definitely at the top. 
+794 words
+												
+
+(b) 'The Tempest is a play about savagery and its consequences.' 
+Using your knowledge of the play as a whole, show how far you agree with this view of The Tempest. 
+Remember to support your answer with reference to different interpretations. [15]
+
+It might be surprising to find savagery in a play that was classified as a Comedy in the First Folio in 1623 by Heminges and Condell, but The Tempest has always been problematic in terms of its genre (is it a Comedy? a Tragi-Comedy? a Pastoral Romance?) and those who find the existence of savagery surprising in an early modern Comedy have obviously never encountered Twelfth Night or any of Ben Jonson's city comedies. 
+
+Post-colonial criticism has brought savagery in The Tempest into focus, however. Prospero's terrible threats against Caliban -
+
+     ...thou shalt have cramps,/Side-stitches that shall pen thy breath up...
+     (The Tempest, I.ii.326-327)
+
+...thou shalt be pinched/As thick as honeycomb, each pinch more stinging/Than bees that made 'em...
+(I.ii.329-331)
+
+...I'll rack thee with old cramps,/Fill all thy bones with aches, make thee roar/That beasts shall tremble at thy din...
+(I.ii.369-371)
+
+- tended to be overlooked by the play's early critics, these words regarded as a straightforward consequence of Caliban's reluctance to serve his master and the attempted rape of Miranda by the indigenous islander. Octave Mannoni's text Prospero and Caliban: The Psychology of Civilization (1956) changed the way in which we perceive the violence in this text: Stephen Orgel - one of the play's most influential editors -sees modern criticism (and, therefore, modern productions) as "abandon[ing] traditional representations of Prospero, the serene and detached enchanter". Instead, Prospero the Mage was replaced by a figure whose hunger for power meant the linguistic denigration and physical humiliation of indigenous people: Prospero became the symbol of the boundless greed and unbounded savagery of an extractive capitalism that used notions of western "civility" and education as a fig leaf for exploitation. Such savage processes were only possible on the basis that indigenous peoples were "vile race[s]" (I.ii.358), incorrigible (Caliban is, according to Prospero "A devil, a born devil on whose nature/Nurture can never stick...", IV.i.188-189) and therefore unworthy of real consideration. 
+
+The first production on the English stage to be heavily influenced by Mannoni's seminal work of criticism - the 1970 Mermaid Theatre production, directed by Jonathan Miller - set the "savagery" of Prospero in a new context: by casting Black actors as both Caliban and Ariel, Miller depicted  "Caliban and Ariel as different forms of black response to white paternalism". According to Orgel, while Caliban responds to Prospero's "savagery" in an adversarial manner and suffers as a consequence, Ariel learns to accommodate Prospero's demands in such a manner that he finally gains his freedom. In fact, both Ariel and Caliban learn to appease their master, Prospero. Ariel's claim in Act 1, Scene 2 that he will be "...correspondent to command/And do my spiriting gently..." (I.ii.297-298) has its counterpart in Caliban's comment in the play's final scene that "...I will be wise hereafter,/And seek for grace..." (V.i.292-293). If we are all too aware, post-Mannoni, of Prospero's disquieting relationship with those Europeans whose savagery was a consequence of the colonial process, then we should also note that savage behaviour also characterizes the relationships between the Italians. Antonio and Sebastian are keen to commit regicide in Act 2, Scene 1 and the social fabric proves terribly fragile in the play's first scene:
+
+	Gonzalo. Nay, good, be patient.
+Boatswain. When the sea is. Hence! What cares these roarers
+for the name of king? To cabin: silence! trouble us not.
+   Gonzalo. Good, yet remember whom thou hast aboard.
+   Boatswain. None that I more love than myself.
+
+This exchange between Gonzalo and the Boatswain is easily missed in the crazed hubbub of the storm, but the Boatswain's final line here rings the death knell for a culture that is held together with bonds of duty based upon loyalty to the sovereign. As a modern reader (or viewer), it is easy to miss the significance of this early exchange: for us, it is entirely natural that thoughts of self-preservation spring to mind when characters fear destruction. But we have to be reminded, as ever, that "The past is a foreign country": the fact that Shakespeare specifically has the Boatswain point out that the natural world cares nothing for social distinctions ("...What cares these roarers for the name of king?...") suggests that he is deliberately undermining the foundational bonds of social distinction that underpins early modern European societies. The "savagery" of the storm seems to weaken these bonds in such a manner that what is revealed to the audience is a truly savage Hobbesian state of nature where every man is every other man's enemy. It is no surprise that Prospero's Magic is required at the end of the play to heal the terrible wounds that have been wrought in The Tempest.  
+768 words
+ 
+
+
+
+ 
