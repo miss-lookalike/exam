@@ -1,0 +1,20 @@
+- When did Truman present his 21-point plan to Congress & what did it outline? - 6th Sep 1945, plans for reconversion
+- Which executive order did Truman sign on 21st March 1947 & what did it set out to achieve? - 6th Sep 1945, plans for reconversion
+- When did the Berlin Blockade end? - EO 9835, loyalty against communism within gov
+- What was the result of the SC’s decision on Truman’s seizure of the steel mills on 8th April ________ ? - 6-3, 1952
+- 5. What did the Revenue Act of September 1950 do? - Increase corporation and income taxes
+- 6. What was signed on 2nd April 1948? - Marshall Plan
+- 7. When did FDR die? - 12th April 1945
+- 8. When was Secure to These Rights published? - 29th Oct 1947
+- 9. What was the Executive Order that desegregated the military on 26th July 1948? - EO 9981
+- 10. How many new homes were promised under the Housing Act? - 810,000
+- 11. Name two civil rights successes in 1947 - Jackie Robinson, NAACP address, CORE JoR, Secure Rights
+- 12. What was the slogan of the Republican party in the 1946 midterms? - Had Enough?
+- 13. Name two foreign policy failures for the US in 1949 - PRC, USSR A-bomb
+- 14. When did Kennan send his Long Telegram? - 22nd Feb 1946
+- 15. What percentage of Americans disapproved of Truman’s seizure of the steel industry? - 43%
+- 16. Name a department which was created under the National Security Act.  - NSC, CIA, Defense
+- 17. How much did congress raise the minimum wage by? - 40 to 75 cents (35 cents)
+- 18. Which country was recognised by the USA in May 1948? - Israel
+- 19. Where did McCarthy make his infamous first Red Scare speech? - Wheeling, West Virginia
+- 20. What percentage of US troops are killed during the armistice talks? - 45%
