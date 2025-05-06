@@ -1,0 +1,28 @@
+Key American contexts for H472/2 – Comparative and Contextual Study OCR paper 
+
+- A    American Dream 
+- B    Bill of Rights, beacon to the world, bootlegger 
+- C    ‘City upon a hill’ sermon (John Winthrop, 1630), consumerism, conspicuous consumption 
+- D    Declaration of Independence (4 July 1776) 
+- E    Emersonian ideal man, Emersonian ‘oversoul’, equality, East v West, American exceptionalism 
+- F    Frontier Thesis, freedom, the ‘flapper’, Benjamin Franklin, Leslie Fiedler ‘man on the run’ (escaping constraints of average society/social structures for freedom on the frontier)
+- G    “Go West, young man” (Horace Greeley, 1865) 
+- H    Happiness (see U – “unalienable rights…”) 
+- I    ideal, individualism, independence, immigration 
+- J    jeremiad (Grapes), Jazz Age coined by F. Scott Fitzgerald, also Roaring Twenties, Jeffersonian agrarianism 
+- K    Ku Klux Klan (3-8 million members in 1920s)
+- L    Liberty, Lost Generation (post-WWI; F. Scott Fitzgerald) 
+- M    Manifest Destiny, ‘melting pot’ of cultures/peoples, materialism, modernism, ‘man on the run’ (Fiedler), Mason-Dixon Line, Machine Age 
+- N    New Deal (Roosevelt, 1932), naturalism (individual overwhelmed by vast forces) 
+- O    ‘old money v new money’ (Gatsby), nouveau riche 
+- P    pioneering spirit, progress, Prohibition (1919 – 1933), Protestant work ethic 
+- Q    Quest, quest novel 
+- R    American Romanticism, American Revolution (1775), rags-to-riches (Gatsby), realism, regionalism 
+- S    American South, southern belle (Streetcar), Statue of Liberty: “bring me your huddled masses yearning to breathe free”
+- T    Transcendentalism, Tom Collins (Grapes) 
+- U    “unalienable Rights [to] Life, Liberty and the pursuit of Happiness” (Declaration of Independence, 4 July 1776)
+- V    Veblen (conspicuous consumption and conspicuous leisure) The Theory of the Leisure Class (brash and expensive public purchasing rather than traditional European modesty)
+- W    John Winthrop (‘City upon a hill’ sermon), work ethic leading to wealth, Wall Street crash 1929 
+- X
+- Y
+- Z    Zelda Sayre (F Scott Fitzgerald)
