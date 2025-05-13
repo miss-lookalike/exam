@@ -1,0 +1,163 @@
+#separator:tab
+#html:true
+"When was Milton born?
+<br><br>
+"	"1608
+<br><br>
+
+<br><br>
+"
+"Who did Milton meet in Florence?
+<br><br>
+"	"Galileo - visionary of a continental ideas in paradise lost
+<br><br>
+
+<br><br>
+"
+"Milton's opinon on religion
+<br><br>
+"	"Deep hate for all organised religion
+<br><br>
+
+<br><br>
+"
+"uxoriousness
+<br><br>
+"	"Loving one's wife too much
+<br><br>
+
+<br><br>
+"
+"How many wives did Milton have?
+<br><br>
+"	"3 - last was 24 when he was 55
+<br><br>
+
+<br><br>
+"
+"Felix Culpa Doctrine
+<br><br>
+"	"The fall was fortunate
+<br><br>
+
+<br><br>
+"
+"Milton during the Civil War
+<br><br>
+"	"writing was very controversial; attack bishops and argued for divorce
+<br><br>
+
+<br><br>
+"
+"Milton's De Doctrina Chrstiana
+<br><br>
+"	"Discovered in 1823; son not co-equal or co-eternal with God the Father, God not omniscient, man should have more than one wife
+<br><br>
+
+<br><br>
+"
+"Eve and Narcissus
+<br><br>
+"	"Both show worrying tendency to self-regard, in the reflection scene
+<br><br>
+
+<br><br>
+"
+"Milton's aims
+<br><br>
+"	"""justify the ways of God to man""
+<br><br>
+
+<br><br>
+"
+"Milton's stance on the monarchy
+<br><br>
+"	"Anti-monarch
+<br><br>
+
+<br><br>
+"
+"King Charles quote
+<br><br>
+"	"'It is for me to decide how our nation is to be governed, I alone must answer to God for our exercise of the authority he has invested in me'
+<br><br>
+
+<br><br>
+"
+"What caused the conflict between the Crown and Parliament?
+<br><br>
+"	"Charles' marriage to a Catholic and unilateral foreign policy
+<br><br>
+
+<br><br>
+"
+"When did Charles dissolve parliament?
+<br><br>
+"	"1629
+<br><br>
+
+<br><br>
+"
+"When did the Civil War begin and end?
+<br><br>
+"	"1642-1646
+<br><br>
+
+<br><br>
+"
+"How many people died and houses were destroyed during the Civil War?
+<br><br>
+"	"100,000 people died and 10,000 houses destroyed
+<br><br>
+
+<br><br>
+"
+"When was King Charles I executed?
+<br><br>
+"	"January 1649
+<br><br>
+
+<br><br>
+"
+"Who led the Republican government after Charles I's execution?
+<br><br>
+"	"Oliver Cromwell
+<br><br>
+
+<br><br>
+"
+"How long did Oliver Cromwell lead the country as a military dictatorship?
+<br><br>
+"	"8 years
+<br><br>
+
+<br><br>
+"
+"When was Charles II crowned king?
+<br><br>
+"	"1661
+<br><br>
+
+<br><br>
+"
+"What was the period called when Charles II was crowned king?
+<br><br>
+"	"The Restoration
+<br><br>
+
+<br><br>
+"
+"What happened during the Restoration?
+<br><br>
+"	"Many restrictions were lifted
+<br><br>
+
+<br><br>
+"
+"When did the Great Fire of London occur?
+<br><br>
+"	"1665
+<br><br>
+
+<br><br>
+"

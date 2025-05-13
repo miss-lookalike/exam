@@ -1,0 +1,338 @@
+#separator:tab
+#html:true
+"Antonio's view of the Duchess 1.2
+<br><br>
+"	"""Whilst she speaks she throws upon a man so sweet a look that it were able to raise one to a galliard that lay in a dead palsy.""
+<br><br>
+
+<br><br>
+"
+"The Duchess acknowledging her sexuality to her brothers, arguing them 1.2
+<br><br>
+"	"""Diamonds are of mist value, They say, that have passed through most jewellers' hands.""
+<br><br>
+
+<br><br>
+"
+"Duchess reversing the gender roles of 'woo'ing
+<br><br>
+"	"The misery of us that are born great, / We are forced to woo because none dare woo us
+<br><br>
+
+<br><br>
+"
+"Antonio's warning in the marriage scene 1.2
+<br><br>
+"	"""Ambition, madam, is a great man's madness.""
+<br><br>
+
+<br><br>
+"
+"Duchess raising Antonio
+<br><br>
+"	"Without I raise it higher. Raise yourself; / Or, if you please, my hand to help you
+<br><br>
+
+<br><br>
+"
+"The Duchess employing Antonio to recognise her sexuality 1.2
+<br><br>
+"	"""This is flesh and blood, sir: 'tis not the figure cut in alabaster kneels at my husband's tomb,""
+<br><br>
+
+<br><br>
+"
+"The Duchess as a Protestant martyr during the marriage scene 1.2
+<br><br>
+"	"""How can the church build faster? We are now man and wife, and 'tis the church that must echo but this.""
+<br><br>
+
+<br><br>
+"
+"Public opinion on the Duchess's sexuality (Antonio) 3.1
+<br><br>
+"	"""The common rabble do directly say She is a strumpet.""
+<br><br>
+
+<br><br>
+"
+"Elizabeth I like strength in the Duchess (1) 3.2
+<br><br>
+"	"""For know, whether I am doomed to live or die, I can do both like a prince.""
+<br><br>
+
+<br><br>
+"
+"Elizabeth I like strength in the Duchess (2) 3.2
+<br><br>
+"	"""Why should only I, Of all the other princes of the world, Be cased up like a holy relic? I have youth And a little beauty.""
+<br><br>
+
+<br><br>
+"
+"The Duchess's fall 3.2
+<br><br>
+"	"""This good one that you speak of is my husband.""
+<br><br>
+
+<br><br>
+"
+"The Duchess reflecting on her position to love 3.5
+<br><br>
+"	"""The birds that live i'th' field, On the wild benefit of nature, live Happier than we; for they may choose their mates.""
+<br><br>
+
+<br><br>
+"
+"A display of the Duchess losing hope, Arabella Stuart 4.1
+<br><br>
+"	"""The church enjoys fasting; I'll starve myself to death.""
+<br><br>
+
+<br><br>
+"
+"The Duchess famous line 4.2
+<br><br>
+"	"""I am Duchess of Malfi still.""
+<br><br>
+
+<br><br>
+"
+"The Duchess's ideal Christian death 4.2
+<br><br>
+"	"""Who would be afraid on't, Knowing to meet such excellent company in th'other world?""
+<br><br>
+
+<br><br>
+"
+"Bosola as a murderer 1.2
+<br><br>
+"	"""notorious murder""<br>""Whose throat must I cut?""
+<br><br>
+
+<br><br>
+"
+"Bosola showing a hatred of women 2.1
+<br><br>
+"	"""I would sooner eat a dead pigeon taken from the soles of one sick of the plague than kiss one of your fasting.""
+<br><br>
+
+<br><br>
+"
+"Bosola showing a hatred of mankind 2.2
+<br><br>
+"	"""I do wonder you do not loathe yourselves.""
+<br><br>
+
+<br><br>
+"
+"Bosola portraying disgust at the Duchess's pregnancy 2.2
+<br><br>
+"	"""She pukes, her stomach seethes.""
+<br><br>
+
+<br><br>
+"
+"Bosola sexually harassing the Old Lady 2.2
+<br><br>
+"	"""The lusty spring smells well, But the drooping autumn tastes well.""
+<br><br>
+
+<br><br>
+"
+"Bosola defending the Duchess to Ferdinand 3.1
+<br><br>
+"	"""I do suspect there hath been some sorcery Used on the Duchess.""
+<br><br>
+
+<br><br>
+"
+"Bosola warning the Duchess to not die in despair 4.1
+<br><br>
+"	"""Oh die! Despair? Remember you are a Christian.""
+<br><br>
+
+<br><br>
+"
+"Bosola and the Duchess's death (2 quotes)
+<br><br>
+"	"""Come, be of comfort. I will save your life.""<br>""Didst thou ever see a lark in a cage? Such is the soul in the body.""
+<br><br>
+
+<br><br>
+"
+"Bosola reflecting on his actions - although after he has been denied a payment 4.2
+<br><br>
+"	"""Where were these pertinent fountains while she was living?""
+<br><br>
+
+<br><br>
+"
+"Bosola and the circle of vengeance 5.5
+<br><br>
+"	"""Now my revenge is perfect.""
+<br><br>
+
+<br><br>
+"
+"Antonio describing Ferdinand 1.2
+<br><br>
+"	"""He speaks with others' tongues and hears men's suits With others' ears,""
+<br><br>
+
+<br><br>
+"
+"Ferdinand talking to his sister displaying his obsession with her sexuality 1.2
+<br><br>
+"	"""And women like that part which, like the lamprey, Hath ne'er a bone in't.""
+<br><br>
+
+<br><br>
+"
+"Ferdinand imaging his sister having sex 2.5
+<br><br>
+"	"""Or my imagination will carry me To see her in the shameful act of sin.""
+<br><br>
+
+<br><br>
+"
+"Ferdinand repressed sexuality inferring homosexuality 2.5
+<br><br>
+"	"""Happily with some strong thighed bargeman,""
+<br><br>
+
+<br><br>
+"
+"Ferdinand's anger at his sister 2.5
+<br><br>
+"	"""I would have their bodies Burnt in a coal pit, with the ventage stopped, That their cursed smoke might not ascend to heaven;""
+<br><br>
+
+<br><br>
+"
+"Ferdinand's response to Bosola defending the Duchess 3.1
+<br><br>
+"	"""The witchcraft lies in her rank blood.""
+<br><br>
+
+<br><br>
+"
+"Ferdinand feeling guilt for his actions regarding the Duchess 4.2
+<br><br>
+"	"""Was I her judge?""
+<br><br>
+
+<br><br>
+"
+"The Cardinal on Ferdinand's lycanthropy 5.1
+<br><br>
+"	"""He hath grown worse and worse, and I much fear He cannot live.""
+<br><br>
+
+<br><br>
+"
+"Ferdinand's dying words 5.5
+<br><br>
+"	"""Whether we fall by ambition, blood or lust, Like diamonds we are cut with our own dust.""
+<br><br>
+
+<br><br>
+"
+"The Cardinal expressing concern about the Duchess's honour 1.2
+<br><br>
+"	"""The marriage night is the entrance to some prison.""
+<br><br>
+
+<br><br>
+"
+"The Cardinal shaming the Duchess's sexuality despite it benefitting him 2.4
+<br><br>
+"	"""Are your tears your justification? The selfsame tears Will fall into your husband's bosom.""
+<br><br>
+
+<br><br>
+"
+"The Cardinal only caring about honour and reputation 2.5
+<br><br>
+"	"""Shall our blood, The royal blood of Aargon and Castile, Be thus attained?""
+<br><br>
+
+<br><br>
+"
+"Public opinion on the Cardinal - Pilgrim 1 3.4
+<br><br>
+"	"""Yet the Cardinal bears himself much too cruel.""
+<br><br>
+
+<br><br>
+"
+"The Cardinal in Julia's death 5.2 (2 quotes)
+<br><br>
+"	"""'Tis a secret That, like a lingering poison, may chance lie Spread in thy veins and kill thee seven year hence.""<br>""Thy curiosity hath undone thee: thou'rt poisoned with that book.""
+<br><br>
+
+<br><br>
+"
+"Antonio criticising Catholicism and hierarchy 1.1
+<br><br>
+"	"""Some cursed example poison't near the head, 'Death and diseases through the whole land spread.'""
+<br><br>
+
+<br><br>
+"
+"The Duchess's love and adoration for Antonio 3.2
+<br><br>
+"	"""I would have this man be an example to you all.""
+<br><br>
+
+<br><br>
+"
+"Antonio loving the Duchess 3.2
+<br><br>
+"	"""I am all yours, and 'tis very fit All mine should be so.""
+<br><br>
+
+<br><br>
+"
+"Bosola describing Antonio to the Duchess 3.2
+<br><br>
+"	"""He was a excellent courtier, and most faithful.""
+<br><br>
+
+<br><br>
+"
+"Ferdinand describing Antonio 3.3
+<br><br>
+"	"""A slave that only smelled of ink and counters And ne'er in's life looked like a gentleman,""
+<br><br>
+
+<br><br>
+"
+"Bosola after he killed Antonio 5.4
+<br><br>
+"	"""The man I would have saved 'bove mine own life?""
+<br><br>
+
+<br><br>
+"
+"Antonio's dying words
+<br><br>
+"	"""And let my son fly the court of princes.""
+<br><br>
+
+<br><br>
+"
+"Julia's uncertainty about the afterlife 5.2
+<br><br>
+"	"""I go I know not wither.""
+<br><br>
+
+<br><br>
+"
+"Cariola as a foil to the Duchess in death 4.2
+<br><br>
+"	"""I am quick with child.""
+<br><br>
+
+<br><br>
+"
