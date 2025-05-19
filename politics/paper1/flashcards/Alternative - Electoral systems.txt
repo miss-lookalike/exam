@@ -1,0 +1,17 @@
+#separator:tab
+#html:false
+Pros of FPTP	Strong stable government formed.MP - Constituentcy link is strong.Centrist policies not too right or left wing keeping the large amount of the UK broadly represented.
+Cons of FPTP.	Lack of voter choice as two party duopoly is in power.Unequal vote value - In a safe seat, votes are effectively worth less than in a safe seat because the ''winner takes all''.A lack of a true majoritiy - MPs dont need 50% of the vote to win a seat in HOC, underminig the representativeness of people in this scenario.Disproportionate result - Oer represents main parties and under represents minority parties.
+Explain simply the AMS system.	An electoral system that uses two votes one for a local representative and one for a regional representative with the aim of producing a more proportional result.
+Where is the AMS system used in the UK?	In the Welsh and Scottish regional elections.
+Pros of the AMS system	Proportional result.Split - ticket voting ( Using their two votes for different parties.).A government with broad popularity is created - Supporting greater government legitimacy.Greater representation.
+Cons of AMS.	A more complicated process.An unlikely single party government. Leads to higher chance of coalitions.The first round of constituentcy votes is conducted via FPTP, so carries same disadvantages as FPTP.Different types of representatives - Leads to confusion and tension amongst voters and blurs accountability.Party control - PArtys control lists of candidates, giving party leaders excessive authority.
+Explain simply the STV system.	A voting system in which voters expresses their preference, ranking candidates from best to worse. Winning candidates need to achieve the droop quota to win.
+Where is the STV system used in the UK?	In the Northern Ireland assembly.
+Advantages of the STV system.	The result is proportional, close cast between proportion of seats gained and votes gained.Greater voter choice between parties and within parties.Greater representation as multi - member constituentcies will likely have someone elected who shares ideology with a diverse amount of voters.
+Cons of the STV voting system.	A more complicated system than that of it's FPTP counterpart.Leads to an unlikely single - party government, especially in Northern Ireland because the Good Friday Agreement requires NI to have a coalition government.Constituency link - No local representatives leads to a lack of accountability and representativeness in the local area.
+Explain simply the SV system.	A majoritian system where voters can express two preferences.
+Where is the SV system used.	In the London Mayoral election.
+Advantages of the SV system.	The result provided gives a majoritarian result, increasing th results legitamacy. Leading to a strong and stable government.Voter choice increased - Voters can have a first and second choice candidate.Simple system - SV s relatively easy to understand, improving political engagement..
+Cons of the SV system.	Leads to two party dominance, just like the FPTP system.A false majority forms.Wasted votes.
+Pros of more parties in the UK.	Increased voter choice.More views represented by Parties, increasing representivity.
