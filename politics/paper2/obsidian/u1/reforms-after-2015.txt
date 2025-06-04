@@ -1,0 +1,53 @@
+Here is the markdown table converted into a plain text list, retaining all information:
+
+---
+
+**1. Reform: Local government act**
+**Date and description:**
+Metro-Mayors: Continued introduction of elected mayors in some areas, including some without referendums (e.g. West Midlands, West of England, Liverpool City Region; by 2022 the number had risen to 9, including Sheffield City Region, North of Tyne, and West Yorkshire - attempting to balance the sense the North of England is underrepresented in Parliament). These metro-mayors have significant powers and budgets.
+In 2016, the Greater Manchester elected mayor became responsible for a £6 billion health and social care budget.
+However, by 2022 the electorate had rejected the opportunity to have an elected mayor in 37 out of 54 referendums that were called; in May 2022, Bristol voted to abolish its elected mayoral position on a turnout of 29%.
+**Significance score:** 7/10
+
+---
+
+**2. Reform: Devolution**
+**Date and description:**
+
+* **2016:** Extension of Scottish Devolution (Scotland Act 2016) following the independence referendum in 2014. The referendum result was that Scotland should remain as part of the UK, but the 45% who voted to leave the UK were appeased by further measures of devolution of power to Scotland, giving Scotland a great deal of independence over financial matters (known as ‘Devo-Max’).
+* **2017:** The Wales Act 2017 gave further administrative and political powers to Wales, as well as requiring a referendum before any future abolition of the Welsh National Assembly, weakening Westminster’s parliamentary sovereignty. Quasi-Federal.
+  **Significance score:** 8/10
+
+---
+
+**3. Reform: Fixed-term Parliaments Act**
+**Date and description:**
+2011: Improved democracy by removing the Prime Minister’s power to choose when general elections took place, instead insisting that they happen every 5 years except under exceptional circumstances (i.e. if the government loses a vote of confidence, or if the House of Commons votes by a two-thirds majority to call an election).
+The impact of the act was weakened when Theresa May used the two-thirds vote provision to call a snap election in 2017, whilst Boris Johnson did the same in 2019 with the Conservatives' ‘Early Parliamentary Act’.
+As a result of these weaknesses, Parliament (using its parliamentary sovereignty) repealed this act in 2022.
+**Significance score:** 2/10
+
+---
+
+**4. Reform: English Votes for English Laws**
+**Date and description:**
+2011: To address the West Lothian Question, a change in parliamentary procedure meant MPs from Scottish constituencies could no longer vote to impose policies that only applied to England (e.g. education).
+However, this procedure was only in force from October 2015 until July 2021, when it was removed altogether following a decision of the House.
+**Significance score:** 2/10
+
+---
+
+**5. Reform: Recall of MPs**
+**Date and description:**
+2015: Improved accountability by allowing MPs who had been imprisoned or suspended from the House of Commons to be re-called (i.e. a by-election would be triggered) if 10% of their constituents signed a petition.
+**Significance score:** 6/10
+
+---
+
+**6. Reform: The UK and the EU**
+**Date and description:**
+2016: The 2016 referendum vote for the UK to leave the European Union led to the 2020 European Union (Withdrawal Agreement) Act, with very wide-ranging constitutional implications.
+**Significance score:** 10/10
+
+---
+

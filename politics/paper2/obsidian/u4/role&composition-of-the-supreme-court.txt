@@ -1,0 +1,28 @@
+Links: [[politics]], [[supreme-court]]
+
+The UK is a liberal democracy with the [[rule-of-law]]: the government is not above the law. Therefore, there must be a clear separation of power between the [[executive]](who carry out the law) and the [[judiciary]] (who make sure the law is followed by all) - this includes ensuring the executive does not infringe our civil rights.
+
+Separation of powers is an essential cornerstone of the constitution and this was emphasised in 2005 by the Constitutional Reform Act which established the separate supreme court which opened in 2009. 
+
+[[judiciary]]
+
+---
+
+[[judicial-review]]: the Supreme Court also reviews the actions of government and other bodies in order to a) assert the rights of citizens and b) stop the government overstepping its powers. E.g. a review might happen if
+
+1. Citizens feel a member of the [[executive]] has not dealt equally with all citizens
+2. A public body has acted [[ultra-vires]] (including devolved administrations)
+3. A public body has acted in contravention of the Human Rights Act 1998
+
+In 2013, over 15,000 applications for judicial review were made, but the government then added restrictions and raised court costs to prevent 'meritless applications' designed to slow government down. In 2014, 4062 cases were head, of which 36% were successful and led to a change in a decision by a public body.
+
+---
+### Membership
+
+- 12 members
+- Appointments made when a vacancy occurs through retirement at 70 (or removal for misconduct, but this has not yet happened)
+- Determined by a 5-member selection commission, itself made up of the most senior judges from across the whole UK
+	- the President of the UKSC, who will be the chair of the selection commission; a senior UK judge (who is not a UKSC Justice) nominated by the President of the UKSC; a member of the Judicial Appointments Commission; a member of the Judicial Appointments Board for Scotland; and a member of the Northern Ireland Judicial Appointments Commission. ^541e9c
+- Nominees must be a judge of high office for 2 years, with 15 years since legal qualification. Politicians and other senior judges are consulted by the commission.
+- Their nominations passed to Justice Secretary (aka Lord Chancellor) for approval, who has one opportunity to reject a nomination ot he basis of qualification
+- If agreed, the PM then asks the monarch to make the appointment

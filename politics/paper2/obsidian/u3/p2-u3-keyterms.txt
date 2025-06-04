@@ -1,0 +1,23 @@
+Executive :: The collective group of Prime Minister, Cabinet and junior ministers, sometimes known as 'The Government'. Role: execute (or carry out) laws, propose, legislation and budget, make policy decision, take actions within existing law & budget
+
+Cabinet :: The Prime Minister and senior ministers, most of whom lead a particular [[government-department]]. 
+
+Minister :: An [[MP]] or member of the [[house-of-lords]] appointed to a position in the government, usually exercising specific responsibilities in a department.
+
+Government department :: A part of the [[executive]], usually with specific responsibility over an area such as education, health or defence.
+
+Royal Prerogative :: A set of powers and privileges belonging to the monarch but normally exercised by the Prime Minister or [[Cabinet]], such as the granting of honours or of legal pardons.
+
+Secondary Legislation :: Powers given to the Executive by Parliament to make changes to the law within certain specific rules.
+
+- Laws, regulations and orders
+- Made by government ministers, or other public bodies, under powers already granted by [[statute-law]]
+- Requires parliamentary approval but do not have to pass through the full procedure. 
+- Most pass through automatically or 'on the nod', only occasionally provoking debate and a vote.
+- [[house-of-lords]] pays more attention to secondary legislation than the [[house-of-commons]] does
+
+- Most legislation is actually [[secondary-legislation]]
+- E.g. primary legislation grants power to the secretary for transport to set speed limits; secondary legislation concerns the minister actually setting those limits 
+- [[statutory-instruments]]
+
+Individual responsibility :: The principle by which ministers are responsible for their personal conduct and for their departments.

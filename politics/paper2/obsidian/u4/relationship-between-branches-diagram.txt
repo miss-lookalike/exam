@@ -1,0 +1,38 @@
+Here is the full plaintext version of the diagram you provided, preserving all the information:
+
+---
+
+**Legislative**
+**Parliament:**
+*— Makes, amends and repeals laws*
+
+↔️ (Arrow pointing to and from Executive)
+**Fusion of powers**
+**Accountability / scrutiny**
+**Executive dominance?**
+
+↘️
+**SC interprets the meaning and relevance of Parliament’s laws**, checks they are being applied properly & checks they are compatible with the HRA (Human Rights Act)
+
+**BUT:**
+\[\[Parliament]] remains **\[\[sovereign]]** and the **\[\[supreme-court]]** cannot overturn **\[\[statute-law]]**
+
+---
+
+**Executive**
+**‘The Government’:**
+*— Propose and carry out laws*
+
+⬇️
+**SC can use ‘judicial review’ to tell the government they are ultra vires**
+
+---
+
+**Judiciary**
+**The UK Supreme Court:**
+*— Upholds and applies the laws*
+
+---
+
+Let me know if you want a text summary or reformatted notes based on this.
+

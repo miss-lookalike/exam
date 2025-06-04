@@ -1,0 +1,11 @@
+Explanation of constitutional terms that apply to the UK and their implication
+
+- **[[Uncodified]]:** flexible and easier to change but less effective at protecting rights and can change unwisely due to popular pressure
+- **[[Unentrenched]]:** [[parliamentary-sovereignty]] makes entrenchment impossible! Since governments usually dominate parliament through their majority in the Commons, the government of the day effectively controls the constitution and can change it easily. Increasingly, referendums are used to gain legitimacy for constitutional changes e.g. Brexit 2016, AV 20[^1]11, IndyRef 2014, EEC referendum 1975, Scotland Parliament 1997,
+- **[[Unitary]]:** Sovereignty is not divided between regions, but shared out by a parliament which retains full of control. However, the UK could be thought of as ‘quasi-federal’, because it is very unlikely that powers are taken back to the centre
+- [[diceys-twin-pillars]]: [[parliamentary-sovereignty]] and [[rule-of-law]]
+    - **[[parliament[^2]ary-sovereignty]]:** ultimate legal authority and the source of all political authority, which can’t be over-turned by any other authority, resides in parliament.
+    - However this is different from **political power**, which is more fluid… the UK parliament has the legal authority to end Scottish devolution, but cannot do so because it would be too politically damaging.
+    - Also, note that the UK could also **choose** to ‘pool’ (group together, lose independence, opportunity to have more power) its sovereignty, i.e. volunteering to certain limits in order to tackle shared challenges (e.g. membership of the EU)
+    - [[rule-of-law]] the fact that EVERYONE in the UK is subject to the law leads to a relatively rational and well-ordered society where, in theory, everyone is treated equally and receives the same consequences if they break the law.
+
