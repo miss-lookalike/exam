@@ -1,0 +1,575 @@
+https://www.politicsexplained.co.uk/
+Parts Of The Specification These Notes Cover
+UK Government
+4 Relations Between the Branches
+● 4.1 The Supreme Court and its interactions with, and influence over, the legislative
+and policy-making processes.
+○ The role and composition of the Supreme Court.
+○ The key operating principles of the Supreme Court, including judicial
+neutrality and judicial independence and their extent.
+○ The degree to which the Supreme Court influences both the Executive and
+Parliament, including the doctrine of ultra vires and judicial review.
+❓Potential Essay Questions/Key Debates❓
+🗣 Key Debates 🗣
+● The key debates are in relation to the extent of the Supreme Court’s neutrality and
+independence, the extent to which the Supreme Court influences the government
+parliament, the effectiveness of the Supreme Court at carrying out its functions and how
+political the role played by the Supreme Court is.
+○ You should make two essay plans on this, which you can then adapt to different,
+more specific questions that will come up.
+❓Past/Possible Essay Questions❓
+● Evaluate the view that the Supreme Court has too much power over Parliament. (30)
+● Evaluate the view that the Supreme Court has too much power over the government. (30)
+● Evaluate the view that the Supreme Court has too much influence over the Executive
+and Parliament. (30)
+● Evaluate the view that the Supreme Court is too politicised. (30)
+● Evaluate the view that the Supreme Court has strengthened parliamentary sovereignty. (30)
+https://www.politicsexplained.co.uk/ 1
+● Evaluate the view that the Supreme Court operates with sufficient judicial neutrality
+and independence. (30)
+● Evaluate the view that the Supreme Court should not exercise control over the power of
+government. (30)
+● Evaluate the view that the Supreme Court effectively protects rights in the UK. (30)
+Parts Of The Specification These Notes Cover 1
+❓Potential Essay Questions/Key Debates❓ 1
+The Creation, Role and Composition Of The Supreme Court 2
+The Creation Of The Supreme Court 2
+The Role Of The Supreme Court 3
+📜 The Key Operating Principles Of The Supreme Court 📜 5
+Judicial Neutrality 5
+Judicial Independence 6
+The Extent To Which The Supreme Court Influences The Executive And Parliament 9
+Its Role In Relation To Human Rights 9
+Judicial Review 11
+Key Examples Of Judicial Review And What They Show 12
+Has The Supreme Court Become Increasingly Politicised? 15
+The Creation, Role and Composition Of The Supreme Court
+The Creation Of The Supreme Court
+How, Why and When the Supreme Court Was Created
+● The Supreme Court was established by the Constitutional Reform Act of 2005 but didn't
+begin work until October 2009, when it moved out of Parliament and into Middlesex
+Guildhall in Parliament Square.
+● The creation of the court by Tony Blair’s Labour government was designed to end the
+fusion of powers at the highest level of the UK judiciary and modernise by moving towards
+a separation of powers that would increase the highest court’s judicial independence and
+make it clearly separate from Parliament.
+https://www.politicsexplained.co.uk/ 2
+○ Previously the most senior judges had sat as members of the House of Lords and
+were known as the ‘law lords’.
+How the Creation of the Supreme Court Changed the Role of the Lord Chancellor
+● Prior to the 2005 Constitutional Reform Act, the Lord Chancellor had 3 roles:
+○ 1. Cabinet minister in the government who oversaw the legal system (executive).
+○ 2. Chairman of sittings in the House of Lords (legislative).
+○ 3. Head of the judiciary who appointed other judges (judicial).
+● This was criticised for lacking independence, especially the fact that a government minister
+appointed senior judges.
+● As a result, the Constitutional Reform Act removed the legislative and judicial role of the
+Lord Chancellor, who is now just a government minister.
+○ The House of Lords is now chaired by the Lord Speaker.
+○ Judges are now appointed by an independent Judicial Appointments Commission
+and the judiciary is headed by the most senior member of the Supreme Court, who
+is known as the ‘Lord Chief Justice’.
+How the Creation of the Supreme Court Can Be Seen As Challenging Parliamentary
+Sovereignty
+● The creation of the Supreme Court can be seen as a challenge to parliamentary
+sovereignty as the law lords in the House of Lords were no longer the UK’s final court of
+appeal.
+○ Further, the increased independence of the court was designed to make it more
+effective in holding the government and parliament to account.
+● On the other hand, though it is politically very unlikely, the Supreme Court could in theory
+and legally still be abolished/reformed with a simple act of parliament, whilst unlike the US it
+has no powers to strike down laws passed by Parliament.
+The Role Of The Supreme Court
+What Cases Does the Supreme Court Hear?
+● The Supreme Court is the only UK-wide court and is the final court of appeal for rulings
+made by lower courts, such as the High Court.
+○ It is the final court of appeal for criminal cases in England, Wales and Northern
+Ireland, and for civil cases across the whole of the UK.
+● It also hears cases of public and constitutional importance, including:
+○ Judging whether the government has acted ‘ultra vires’, as was the case in the 2019
+Prorogation of Parliament Case.
+○ Judging whether devolved bodies is Scotland, Wales and Northern Ireland have
+acted within their powers.
+○ Judging whether acts of Parliament contravene the Human Rights Act. The
+Composition Of The Supreme Court.
+https://www.politicsexplained.co.uk/ 3
+Who is on the Supreme Court?
+● The Supreme Court consists of 12 members, though cases are always heard by an odd
+number of justices so that a majority verdict can be reached.
+○ In most cases, 5,7 or 9 justices take part, however in key cases of constitutional
+importance, 11 do.
+● Supreme Court judges have to have served as a senior judge for 2 years, or been a
+qualified lawyer for at least 15 years.
+○ The most senior member of the Supreme Court is designated as president. This is
+currently Lord Robert Reed.
+● Judges have to retire from the court once they reach 70 years old, at which point they enter
+the House of Lords.
+How the Supreme Court Is Unrepresentative
+● The Supreme Court has been criticised for being highly unrepresentative in terms of race,
+gender, class, education and age.
+○ Even the Times, the leading newspaper of the establishment, used the phrase 'pale,
+male and stale' to head an article on the judiciary in 2011.
+● In terms of the current 12 justices:
+○ 10/12 are male.
+○ 11/12 are white.
+○ 11/12 have studied at Oxbridge and the majority went to private schools.
+○ 12/12 are 60 or over.
+● Lady Simler, the most recent appointment in September 2023 was just the fifth woman to
+be a member of the Supreme Court in history.
+How Supreme Court Justices Are Chosen
+● The original Supreme Court Justices were the former Law Lords, who moved from the
+House of Lords to their new premises.
+● Since the Constitutional Reform Act, new Supreme Court justices are nominated by an
+independent 5-member Selection Commission, consisting of the president of the Court, a
+member of the Judicial Appointments Commission and a member of each of the equivalent
+bodies for Scotland and NI.
+○ The Lord Chancellor then either confirms or rejects the nominated judge. The Lord
+Chancellor can only reject a nomination 3 times, however, before they have to
+choose one of the nominations.
+https://www.politicsexplained.co.uk/ 4
+○ The appointment is then confirmed by the monarch.
+📜 The Key Operating Principles Of The Supreme Court 📜
+Judicial Neutrality
+What is Judicial Neutrality?
+● Judicial neutrality is the idea that judges will exercise their functions without being
+influenced by their own personal bias or political opinions.
+How Judicial Neutrality is Safeguarded in the Supreme Court
+● Judges have traditionally remained largely anonymous, rarely speaking out in public and
+avoiding comments on their own rulings or airing views about the government.
+○ Judges, like civil servants, aren't allowed to campaign for political parties or
+pressure groups.
+● Judges have to base each decision in law and provide a full explanation of how they
+reached it.
+○ Supreme Court decisions are published in full for people to read and scrutinise,
+whilst cases are televised on YouTube.
+■ The court is therefore very transparent and would find it very difficult to hide
+any bias.
+● Supreme Court Judges' elevation to the bench is based on their past performance,
+experience and the expectation they will set aside their personal views.
+○ The current President of the Supreme Court Lord Robert Reed, for example, has
+served as a senior judge since 1998.
+● Conflicts of interest are avoided by preventing Supreme Court judges from sitting on cases
+that involve family, friends and others they know personally.
+How the Supreme Court’s Judicial Neutrality Has Been Questioned In Relation To Its
+Composition
+● The extremely narrow composition of the court in terms of gender, age, education, class
+and race has led to very reasonable concerns as to how this impacts the Supreme Court’s
+neutrality.
+○ The court’s narrow composition leads to limited perspectives and potentially to an
+inability to fully understand certain issues/the situations of certain individuals.
+● Former president of the Supreme Court Lady Hale argued in 2019 that it is important the
+public can look at the judiciary and see them as their judges, rather than ‘beings from
+another planet’.
+● The fact that the court only had one female member was significant in the case of
+'Radmacher v Granatino' (2010). It was a case involving a prenuptial agreement between
+marriage partners, in which a majority of the justices upheld the principle that claims made
+in the event of a divorce should be limited.
+○ Lady Hale was the only one of the 9 justices to dissent from the majority verdict.
+She gave as her reason that the vast majority of people who would lose out as a
+result of the precedent would be women and argued that it may be better for
+Parliament to make such decisions where gender is a key element of the case,
+rather than a very unrepresentative Supreme Court.
+https://www.politicsexplained.co.uk/ 5
+How the Supreme Court’s Judicial Neutrality Has Been Questioned In Relation To
+Brexit
+● The neutrality of key courts, including the Supreme Court, has been questioned in relation
+to important court cases that relate to Brexit.
+○ After the High Court ruled in November 2016 that the consent of Parliament was
+needed to trigger Article 50, which officially started the process of Brexit, the Daily
+Mail ran the headline ‘Enemies Of The People’ with pictures of the 3 high court
+judges, suggesting that they were defying democracy and the wishes of 17.4M
+Brexit voters.
+○ After the Supreme Court ruled in 2019 that Boris Johnson’s prorogation of
+Parliament was unlawful, various right wing commentators and Johnson allies
+described the Supreme Court judges as ‘arch-remainers’.
+● It has therefore been suggested that Supreme Court judges were influenced by their
+personal political views on Brexit, rather than being neutral.
+Judicial Independence
+What is Judicial Independence?
+● Judicial independence is the idea that judges must be free from political interference,
+particularly from the government.
+○ This is especially important in ‘ultra vires’ court cases involving the state, as the
+public must be confident they are receiving impartial justice under the rule of law,
+whilst judges must be confident that their judgements won’t influence their job
+prospects.
+How Judicial Independence is Safeguarded in the Supreme Court
+Security Of Tenure:
+● Judges can't be removed from office unless they break the law or are impeached by a vote
+in both houses of parliament.
+● The only limit on their service is an official retirement age of 70, which is known as a
+security of tenure.
+● Like MPs in Parliament, judges are also immune from legal action arising from any
+comments they may make on cases in court.
+https://www.politicsexplained.co.uk/ 6
+Pay:
+● Judges' salaries are paid automatically from an independent budget known as the
+consolidation funds, which can’t be manipulated by the government.
+● They are also paid well so that there is less incentive for them to be influenced by financial
+pressure.
+○ The current salary of Supreme Court justices is £226,193.
+Appointment:
+● Since the Constitutional Reform Act, new Supreme Court justices are nominated by an
+independent 5-member Selection Commission, consisting of the president of the Court, a
+member of the Judicial Appointments Commission and a member of each of the equivalent
+bodies for Scotland and NI.
+○ The Lord Chancellor then either confirms or rejects the nominated judge. The Lord
+Chancellor can only reject a nomination 3 times, however, before they have to
+choose one of the nominations.
+○ The appointment is then confirmed by the monarch.
+● Especially in comparison to the previous system, under which the Lord Chancellor would
+appoint judges, this system is therefore free from government influence, very transparent
+and depoliticised.
+Physical Separation From Parliament:
+● The fact that the Supreme Court is physically separate from parliament is another, more
+visible sign of its independence.
+● There was never any suggestion that the Law Lords were subject to government pressure,
+with a number of cases in which they showed their independence.
+● However, the transfer of the Supreme Court to separate premises has removed any
+possible doubt of this.
+Sub Judice Rules:
+● Sub judice rules prevent members of parliament, government ministers and the media from
+publicly speaking about impending or ongoing legal proceedings.
+○ This is intended to prevent the media and politicians from influencing the outcome of
+court cases.
+How Recent Actions of the Media and Politicians Challenge the Independence of the
+Supreme Court
+https://www.politicsexplained.co.uk/ 7
+● Especially surrounding two key cases in relation to Brexit (the Article 50 case and the
+Prorogation case), the work of the Supreme Court has become increasingly high profile and
+politicised in recent years.
+● Supreme Court justices are no longer as anonymous as they used to be, whilst various
+parts of the media and politicians, including government ministers, have commented on and
+criticised the decisions of the court.
+● This can be seen as posing a challenge both to the independence of the court and to its
+image as an institution that impartially administers justice.
+Conservative Criticism Of The Supreme Court In Relation To Rwanda Plan:
+● The Supreme Court’s ruling that the Rwanda plan was illegal under domestic and
+international law led to criticism from key members of the Conservative Party.
+○ Sunak criticised the ruling in the media, with his rhetoric presenting the court as
+interfering in policy, with the implication of judicial overreach.
+○ Even though he knows full well the court isn’t a foreign court, he said in the wake of
+the ruling “I’ve also been clear that I won’t allow a foreign court to block us from
+flights taking off. My patience is worn thin, the British people’s patience is worn thin.”
+● Braverman challenged the judgement in court, saying she disagreed with it, and had
+previously criticised the Supreme Court for judicial overreach, arguing that there had been
+a “huge increase in political litigation”.
+● There is significant concern that ministers attacking judges over their decisions and
+criticising the courts puts undue pressure on the court, flouting sub judice rules and making
+it more difficult for the court to act neutrally.
+Starmer And Badenoch Threaten Judicial Independence With Comments At PMQs:
+● In 2025 Lady Sue Carr, the head of the judiciary and Lady Chief Justice wrote to the
+Government and the Opposition expressing concern regarding safeguarding the
+independence of judicial decisions in response to comments made during PMQs in 2025.
+● Starmer agreed in a question that a decision regarding the resettlement of a Gazan family
+in the UK was a "completely wrong" decision, stating that it should be Parliament, not
+judges, making the rules on immigration.
+○ Additionally, he said the Home Secretary would act to close a "legal loophole" to
+alter rulings by narrowing the human right to a family life in article 8 of the ECHR.
+○ This shows how the government can use secondary or primary legislation to change
+the law if they disagree with how judges are interpreting it, asserting the power of
+the Government over the Judiciary.
+● This follows the trend of senior judges being directly criticised by politicians, particularly
+since the Supreme Court's interventions on Brexit and the Rwanda Scheme.
+● The Lady Chief Justice said that the Government failed to visibly respect and protect the
+independence of the judiciary, and any dissent should be made through the appellate
+process not verbal attacks to protect the rule of law.
+○ This threatens Judicial Independence - the idea that judges must be free from
+political interference, as decisions should be impartial justice under the rule of law.
+○ Government ministers, especially the Prime Minister, commenting on and criticising
+decisions of the court threatens both the independence of decisions and its image
+as an institution which impartially administers justice.
+https://www.politicsexplained.co.uk/ 8
+The Extent To Which The Supreme Court Influences The
+Executive And Parliament
+Its Role In Relation To Human Rights
+What Role Does the Supreme Court Play in Relation to the Human Rights Act?
+● The Supreme Court plays an important role in ensuring that all legislation passed by
+Parliament is compliant with the Human Rights Act (which is the European Convention on
+Human Rights but in UK law).
+● Though the ECHR and HRA aren’t legally superior to statute laws, the Supreme Court can
+declare acts of parliament incompatible with the Human Rights Act and urge Parliament to
+change them.
+The Debate Over the Extent Of This Power
+Arguments that the Supreme Court has limited influence over the Executive and Parliament in
+relation to the Human Rights Act:
+● Whilst the Supreme Court can issue a declaration of incompatibility in relation to the Human
+Rights Act, they have no legal powers to compel parliament and the government to change
+the offending Act of Parliament due to Parliament being sovereign.
+○ The Illegal Migration Bill, for example, was introduced by Home Secretary Suella
+Braverman on 7th March 2023 with a section 19 note stating that there was a
+likelihood the provisions of the bill would be incompatible with the Human Rights Act
+and international law (The European Convention on Human Rights), but that the
+government wanted to proceed with it nonetheless.
+■ A similar note was included when the Safety of Rwanda Bill was introduced.
+● Further, the Human Rights Act could easily be repealed/changed by a simple Act of
+Parliament.
+○ This power is therefore far from secure.
+Arguments that the Supreme Court has significant influence over the Executive and Parliament
+in relation to the Human Rights Act:
+● Whilst the Supreme Court can’t legally compel Parliament to make any changes to laws,
+Parliament usually acts to address any declarations of incompatibility raised by the courts
+and parliament also has a Joint Committee on Human Rights to scrutinise bills and ensure
+they are compatible, therefore demonstrating the 'persuasive influence' of the HRA.
+○ For example, in A v Secretary of State for the Home Department, part of The
+Anti-terrorism, Crime and Security Act 2001 was declared incompatible with Articles
+5 and 14 of the human rights act by permitting the detention of suspected
+international terrorists in a way that discriminated on the grounds of nationality or
+immigration status.
+○ The Prevention of Terrorism Act 2005 was introduced by Parliament to amend the
+legislation as a result, bringing UK legislation in line with the HRA.
+○ More recently, in R (Steinfeld and Keiden) v Secretary of State for International
+Development in 2018, the Civil Partnership Act 2004 was declared incompatible
+with articles 14 and 8 of the Human Rights Act as they precluded different sex
+couples from entering civil partnerships. The legislation was then amended in 2019
+in the Civil Partnerships, Marriages and Deaths Act.
+https://www.politicsexplained.co.uk/ 9
+The Supreme Court Ruling That The Rwanda Plan Is Unlawful And The Safety Of
+Rwanda Act:
+Initial Act and Agreement
+The UK government originally formed a migration partnership with Rwanda in April 2022, intending
+to relocate asylum seekers who arrived in the UK illegally to Rwanda where their asylum claims
+would be processed. This was part of a broader effort to deter illegal crossings and dismantle
+human trafficking networks
+Supreme Court Ruling
+This arrangement faced significant legal hurdles, culminating in a November 2023 ruling by the UK
+Supreme Court. The court found the policy unlawful, citing risks of refoulement (the act of forcibly
+returning refugees or asylum seekers to a country where they are likely to face persecution) and
+inadequacies in Rwanda's asylum system as major concerns. They argued that as a result, the
+policy was against the Human Rights Act and the 1951 Refugee Convention, as Rwanda couldn’t
+be defined as a ‘safe country’.
+The government challenged the ruling in AAA v The Secretary of State for the Home Department,
+but the Supreme Court upheld the ruling that the plan was against domestic and international law.
+Importantly, as they were ruling against a policy rather than a law, their ruling stopped the policy as
+it was illegal, rather than it being a decleartion of incompatibility in relation to legislation, which is
+non-binding.
+New Agreement and Legislative Response
+In response to the Supreme Court's concerns, the UK and Rwanda drafted a new treaty, signed in
+December 2023, which included more robust guarantees regarding the treatment of transferred
+individuals. This treaty aimed to enhance the procedural safeguards within Rwanda's asylum
+process, including better training for decision-makers and a stronger monitoring framework.
+Safety of Rwanda Act
+To address the legal issues identified by the Supreme Court, the UK government introduced the
+Safety of Rwanda (Asylum and Immigration) Bill. This legislation, which received Royal Assent in
+April 2024, states that Rwanda must be considered a safe country for asylum seekers and that
+international law must be put aside to allow for the deportation of asylum seekers to Rwanda,
+therefore removing the individual right to judicial review on these grounds.
+As with the Illegal Migration Act, it was introduced with a section 19 note stating that the bill is not
+compatible with the Human Rights Act/European Convention On Human Rights, but it would like to
+proceed anyway. It also gives ministers the power to ignore emergency rulings against the act by
+the European Court Of Human Rights in Strasbourg. The Joint Committee On Human Rights in
+Parliament found the bill ‘fundamentally incompatible’ with the UK’s human rights obligations.
+● On the one hand, it can be argued that this shows how the Supreme Court can protect
+rights effectively in the UK, as its ruling led the government to secure additional guarantees
+and a new treaty with Rwanda.
+● On the other hand, it can be argued that they have limited power if the government and
+parliament is intent on an action/policy that threatens rights in the UK. This is because the
+government, rather than changing to a different policy that was legal, changed the law to
+https://www.politicsexplained.co.uk/ 10
+make their policy consistent with domestic law (rather than the policy itself), whilst stating in
+that law that international law should not be implemented in this case.
+● This shows that the Supreme Court can only protect rights if the law does and that
+parliament can change the law to make their policy legal if the Supreme Court declares it
+illegal.
+Judicial Review
+How the Supreme Court’s Judicial Review Powers Allow It To Declare The Actions
+Of Government ‘Ultra Vires’
+● The Supreme Court has the power to ensure that the government hasn’t acted beyond the
+authority given to them by the law in ‘ultra vires’ cases.
+○ ‘Ultra Vires’ means ‘beyond the law’.
+● This can be by stretching secondary legislation too far, or by doing something that breaks
+primary legislation.
+● If the government is judged to have acted ‘ultra vires’, the Supreme Court can sanction the
+government or force them to reverse their action.
+○ The Supreme Court can therefore strike down secondary legislation.
+○ The Supreme Court can also strike down laws passed by devolved bodies.
+How This Can Be On Issues Of Constitutional Importance
+● The significance of judicial review can be exaggerated, as the majority of cases are in
+relation to local authorities, rather than government ministers, whilst only 10% against the
+government manage to win.
+● Some ‘ultra vires’ cases are of great constitutional importance, though, such as in the 2019
+prorogation case where the Supreme Court was adjudicating on the relative powers of
+Parliament and the Government and in cases where the court decides whether power over
+a particular policy area is held by the UK Parliament or by the devolved body.
+How the Supreme Court Used To Have Greater Powers When the UK was in the EU
+● When the UK was a member of the European Union, the Supreme Court had greater
+powers over Parliament and the Government because it could strike down laws passed by
+Parliament or the actions of government when either branch had breached EU law, which
+was higher law.
+https://www.politicsexplained.co.uk/ 11
+Key Examples Of Judicial Review And What They Show
+The 2019 Prorogation Case (Miller v The Prime Minister)
+● On 29 August 2019, Boris Johnson prorogued (temporarily suspended) parliament.
+○ Johnson and the government argued that the prorogation was a routine one that
+ordinarily follows the selection of a new Prime Minister.
+○ But critics argued the prorogation was intended to avoid parliamentary scrutiny of
+the government’s Brexit plans and to make it harder for parliament to block a
+no-deal Brexit
+● The Supreme Court unanimously ruled that the prorogation was unlawful, reversing the
+prorogation and reinstating parliament.
+○ The Supreme Court noted that the sovereignty of parliament would be undermined
+‘as the foundational principle of our constitution’ if a prerogative power to prorogue
+could be used to ‘prevent Parliament from exercising its legislative authority’.
+● This shows how the Supreme Court was able to check the power of the government and
+uphold parliamentary sovereignty and the power of parliament to scrutinise the government.
+The Dissolution and Calling of Parliament Act 2022:
+● The Dissolution and Calling of Parliament Act 2022, which was introduced to repeal the
+Fixed-term Parliaments Act 2011, also included an ouster clause, which explicitly removed
+the Supreme Court’s power of judicial review in relation to the dissolution of Parliament.
+○ The law states that a court cannot question the exercise of the Prime Minister’s
+power to dissolve Parliament or the limit or extent of these powers. They are
+‘non-justiciable’.
+● This can be seen as a direct response to the Supreme Court’s 2019 decision (in the ‘Miller
+2’ case) to reverse the government’s prorogation of Parliament, ensuring that judicial review
+in relation to this power can’t happen again.
+○ This shows the limits of the Supreme Court’s power, as Parliament can pass laws to
+limit the Supreme Court’s power and change the law if they don’t like how it is being
+implemented.
+The 2016 Article 50 Case (Miller v Secretary of State for Exiting the European Union)
+https://www.politicsexplained.co.uk/ 12
+● Gina Miller argued that the government couldn't give notice of Britain's intention to leave the
+European Union under Article 50 without parliament giving its approval.
+○ The government disagreed and argued it could use its executive powers to make or
+unmake treaties with foreign governments.
+● By an 8-3 majority, the court decided against the government, arguing the process of
+leaving the EU would involve the removal of rights conferred by parliament (passing the
+1972 European Communities Act) and that parliament should therefore have to give its
+consent.
+○ The case also ruled that the Scottish, Welsh and Northern Irish Parliaments had no
+rights to veto an Act of Parliament giving consent to Article 50.
+● This therefore also shows how the Supreme Court is able to check the power of the
+executive and uphold parliamentary sovereignty.
+The 2022 Second Referendum On Scottish Independence Case
+● The uncodified nature of the UK constitution led to it not being clear who can legislate for
+an independence referendum in Scotland.
+○ Parliamentary sovereignty is important, but often disputed in relation to Scotland,
+especially as it is seen to compete with the popular sovereignty of the Scottish
+people.
+● The first (2014) independence referendum was legislated for by a special agreement
+between the UK and Scottish Governments (the Edinburgh Agreement), which was then
+approved by the UK Parliament.
+○ There was no such agreement for a second independence referendum, with the UK
+parliament and government not consenting to one. The Scottish Government
+nonetheless sought to argue that it could legislate for a referendum itself under the
+Scotland Act, arguing that this power wasn’t reserved to the UK Parliament.
+● In November 2022, the UK Supreme Court ruled that the Scotland Act (1998) doesn’t give
+the Scottish Parliament the power to unilaterally legislate for an independence referendum.
+○ Instead, it is a reserved power of the UK Parliament; ‘the Union of the Kingdoms of
+Scotland and England’ is reserved.
+○ Nicola Sturgeon and the Scottish Government accepted the judgement.
+● This shows the power of the UK Supreme Court to clarify the powers of different parts of
+the UK political system, particularly devolved bodies. It also shows how the Supreme Court
+can uphold the power of the UK Parliament and UK Government against devolved bodies.
+For Women Scotland Ltd v The Scottish Ministers (2025)
+● On the 16th of April 2025, the UK Supreme Court ruled that the legal definition of a ‘woman’
+in the Equality Act (2010) was based on biological sex in For Women Scotland Ltd v The
+Scottish Ministers (2025).
+● Pressure group ForWomenScotland challenged the Scottish Government's implementation
+of the Gender Representation on Public Boards (Scotland) Act (2018).
+○ They argued that the legislation was unlawful as it changed the meaning of “sex”
+outlined in the Equality Act (2010) by including transgender people with Gender
+Recognition Certificates in their definition of sex.
+○ The role of the court was to clarify the interpretation of the words “sex” and “woman”
+in the Equality Act (2010).
+● The court ruled the Scottish Parliament did not have the legal authority to redefine terms in
+a UK wide law.
+○ This shows that the Supreme Court plays a key role in settling disputes between
+Westminster and Devolved bodies, and how it can strike down legislation passed by
+https://www.politicsexplained.co.uk/ 13
+the devolved bodies, even though it can’t strike down legislation passed by the UK
+Parliament due to parliamentary sovereignty.
+The 2014 Agricultural Sector Wales Bill Case
+● The UK government argued that the ‘Agricultural Sector Wales’ bill introduced by the Welsh
+Assembly, which set up an advisory committee on agricultural wages, was outside the
+policy competence of the Welsh Assembly and therefore ‘ultra vires’.
+○ The UK government claimed that this committee related to employment and
+industrial relations which weren’t devolved and were still controlled by the UK
+government, rather than agriculture, which was devolved.
+● The Supreme Court sided with the Welsh Assembly and ruled that the Assembly hadn’t
+acted ‘ultra vires’, citing the 2006 Government of Wales act.
+● This shows how the Supreme Court clarifies the powers of devolved bodies and how it can
+uphold the power of devolved bodies against the UK Parliament and Government.
+The 2014 'HS2 Action Alliance Limited v Secretary of State for Transport' Case
+● Environmental campaigners sought a judicial review on whether the government’s HS2
+plans complied with European Union environmental directives.
+● The Supreme Court unanimously dismissed the appeal, ruling that the merits of the scheme
+remained open to debate until Parliament had reached a decision about it.
+○ The Supreme Court rejected the idea that courts should monitor parliamentary
+debates, arguing that it was contrary to the long-established principle of the UK
+constitution that judges shouldn’t interfere with the work of Parliament.
+● This therefore shows how the Supreme Court can uphold democracy and the power of
+Parliament and the Government by being careful about which cases it selects and not
+seeking to extend its own power.
+The 2015 ‘Black Spider Memos’ Case
+● In 2015, journalist Rob Evans argued that the government had to release the letters and
+memos sent by then Prince Charles to government ministers, because they were obliged to
+under the Freedom Of Information Act.
+○ The government, however, resisted releasing them and argued they were sensitive
+and private documents.
+● The Supreme Court ruled by a majority of 5-2 in favour of Evans.
+https://www.politicsexplained.co.uk/ 14
+● This shows how the Supreme Court can prevent the government breaking the law and
+uphold the rights of UK citizens.
+The December 2024 Jackdaw and Rosebank Oil and Gas Case:
+● In December 2024, the UK Supreme Court ruled that the previous Conservative
+Government had broken the law in 2023 and 2024, when it approved new oil and gas
+projects Jackdaw and Rosebank without properly considering the environmental impact.
+○ The fact that the government didn’t consider the environmental impact of scope 3
+emissions (when the oil and gas is burned), meant that they broke the the Climate
+Change Act 2008, which requires the government to assess the full environmental
+consequences of major projects.
+● This decision revoked the approvals for the project until the new government approved
+them again whilst properly considering the full environmental consequences of the projects.
+○ This is a clear example of the Supreme Court’s power of judicial review; where the
+Supreme Court can review the legality of government actions/decisions and reverse
+them to ensure that the government doesn’t break laws passed by Parliament.
+Has The Supreme Court Become Increasingly Politicised?
+What Arguments Are There That the Supreme Court Has Too Much Political Power?
+● The power of the Supreme Court to interpret the law and judge whether individuals and
+public bodies, including the government, have broken it can be seen as a quasi-legislative
+function that grants them a lot of power.
+○ There is particular anxiety about this because the Supreme Court is unelected,
+unaccountable and unrepresentative, yet has the power to hold to account and
+challenge the government and parliament, which are elected, accountable and more
+representative.
+● On the other hand, it can be argued that this is unavoidable as long as they are asked to
+carry out the law and that the court is a politically neutral and independent body which plays
+a key role in upholding democracy and the rule of law in the United Kingdom.
+What Arguments are There That the Supreme Court has Become Increasingly
+Politicised?
+● The power of the Supreme Court to issue declarations of incompatibility with the Human
+Rights Act draws it into the political fray, asking the court to judge the merits of legislation
+passed by parliament rather than simply ensuring this legislation is effectively implemented.
+● Recent high profile Supreme Court cases on Brexit and Scottish Independence have made
+the court more high profile and politicised, with judges no longer as anonymous as they
+used to be and politicians and the media commenting on the decisions of the court.
+○ This has been partly facilitated by the fact that, since the 2005 Constitutional
+Reform Act, the Supreme Court is more visible and separate from Parliament.
+● Some have argued that the decisions in the Article 50 and Prorogation cases were
+examples of the Supreme Court interfering too much in politics and limiting the actions of a
+democratically elected government.
+What Arguments are There That the Supreme Court Hasn’t Become Increasingly
+Politicised?
+● Since the Constitutional Reform Act, the appointments process is a lot more transparent
+and less open to political interference.
+https://www.politicsexplained.co.uk/ 15
+○ Further, it can be argued that the neutrality and independence of the Supreme Court
+are well protected by: the court’s security of tenure, pay, sub judice rules, physical
+separation from parliament, avoidance of conflicts of interest and the downgrading
+of the role of the Lord Chancellor.
+● Since the UK has left the EU, The Supreme Court now has no powers to strike down laws
+passed by Parliament.
+● It can be argued that the conflict between the Supreme Court and the government is not
+due to the court trying to extend its political role and wade into politics, but because the
+government has increasingly sought to act ‘ultra vires’.
+○ The Supreme Court has simply continued to implement the law and protect the
+rights of individuals and the sovereignty of Parliament.
+○ Further, in other cases, such as the case on a Second Referendum On Scottish
+Independence, the court has upheld the power of the UK government and
+Parliament against other bodies.
+Follow Politics Explained For More Help With Your Politics A
+Level
+🌐 Website → https://www.politicsexplained.co.uk/
+📷 Instagram → https://www.instagram.com/polexplained/
+📺 YouTube → https://www.youtube.com/channel/UCQ1FvoFVL4fGJkx6dup3O-w
+🐦 Twitter → https://twitter.com/Pol_Explain
+https://www.politicsexplained.co.uk/ 16

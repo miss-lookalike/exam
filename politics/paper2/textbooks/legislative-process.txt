@@ -1,0 +1,689 @@
+1
+https://www.politicsexplained.co.uk/
+Parts Of The Specification These Notes Cover
+UK Government
+2 Parliament
+● 2.2 The comparative powers of the House of Commons and House of Lords.
+○ The exclusive powers of the House of Commons.
+○ The main powers of the House of Lords.
+○ Debates about the relative power of the two Houses.
+● 2.3 The legislative process.
+○ The different stages a bill must go through to become law.
+○ The interaction between the Commons and the Lords during the legislative
+process, including the Salisbury Convention.
+❓Potential Essay Questions/Key Debates❓
+🗣 Key Debates 🗣
+● The key debates in relation to this topic are:
+○ Whether Parliament carries out its legislative function effectively.
+○ The power balance between the House of Commons and the House of Lords.
+○ You could also get a question just on the House of Lords, in which you’d need to
+use your knowledge from the Constitution topic also.
+● If you make detailed essay plans on the questions in bold below, you should be well
+prepared for the exam.
+❓Past/Possible Essay Questions❓
+● Evaluate the view that Parliament performs its legislative role effectively. (30)
+● Evaluate the view that Parliament performs its functions effectively. (30)
+● Evaluate the view that the legislative process requires reform. (30)
+https://www.politicsexplained.co.uk/ 1
+● Evaluate the view that in practice the House of Lords exerts more power than the
+House of Commons. (30)
+● Evaluate the view that the House of Lords is an effective check on the power of the House
+of Commons. (30)
+● Evaluate the view that the House of Lords plays a meaningful role in UK democracy. (30)
+● Evaluate the view that the House of Lords requires reform. (30)
+Parts Of The Specification These Notes Cover 1
+❓Potential Essay Questions/Key Debates❓ 1
+📜 The Legislative Process 📜 2
+The Different Types Of Bill 2
+How A Bill Becomes A Law 4
+The Interaction Between The Commons and The Lords During The Legislative Process 6
+Secondary Legislation 9
+How The House Of Commons’ Legislative Scrutiny Has Decreased 10
+The Comparative Powers Of The House Of Commons And House Of Lords 11
+The Exclusive Powers Of The House Of Commons 11
+The Main Powers Of The House Of Lords 12
+⬆ The Growing Power And Assertiveness Of The House Of Lords ⬆ 13
+🗣 The Debate Over The Relative Power Of The Two Houses 🗣 16
+📜 The Legislative Process 📜
+The Different Types Of Bill
+Public vs Private Bills
+Public Bills:
+● The vast majority of bills are ‘Public Bills’ that affect the entire population.
+○ These include both government bills and Private Members’ Bills.
+Private Bills:
+● Private bills affect only organisations, such as local authorities and companies, or only
+affect individuals, and give them powers that are beyond or in conflict with the general law.
+○ Private bills only change the law as it applies to specific individuals or organisations,
+rather than the population as a whole and often come as a result of
+organisations/individuals lobbying the government.
+○ For example, the University of Manchester Act 2004 facilitated the merger of two
+existing Manchester-based universities.
+Government Bills vs Private Members’ Bills
+Government Bills:
+● As the government controls the majority of the parliamentary timetable, most bills are
+government bills.
+○ These are piloted through the legislative process by ministers and seek to fulfil
+manifesto commitments/the government’s agenda.
+https://www.politicsexplained.co.uk/ 2
+Private Members’ Bills:
+● There are also Private Members’ Bills, which are introduced by backbench MPs and offer a
+way of legislating on important issues without dividing parties.
+○ There have been notable pieces of legislation that began as Private Members’ Bills,
+including the Abortion Act 1967, which legalised abortion, and the Assault On
+Emergency Workers Act 2018, which was introduced by Labour MP Chris Bryant.
+○ Private Members’ Bills have little chance of getting passed unless they are backed
+by the government, though, whilst they are also very susceptible to filibustering as
+there is little time in the parliamentary calendar for them.
+● There are 3 different ways Private Members’ Bills are introduced:
+○ MPs who want to propose a PMB enter a ballot at the start of every parliamentary
+session. 20 MPs are chosen at random and they are then able to propose a bill on
+one of the 13 Fridays in the Parliamentary session.
+■ These are the most likely to succeed, as more time is allocated for them in
+the parliamentary calendar.
+○ Ten Minute Rule Bills allow a backbench MP to make their case for a new Bill in a
+speech lasting up to ten minutes. There can then be an opposing speech before the
+House of Commons decides on whether to introduce the bill. If it is successful, then
+the Bill is given a first reading.
+■ These bills are unlikely to progress further as they aren’t given priority in the
+parliamentary calendar, which is dominated by the government.
+■ These are often just used to criticise current legislation.
+○ Presentation is when MPs introduce a PMB but don’t speak to support it.
+■ PMBs very rarely succeed using this method.
+The Success Of Government Bills vs Private Member’s Bills In The 2022/23 Parliament:
+● In the 2022/23 parliamentary session, the government introduced 56 bills. Of these, 43
+(76%) received royal assent by the end of the session.
+○ Successful laws included the Illegal Migration Act and Online Safety Act.
+● In comparison, in the 2022/23 parliamentary session, 297 Private Member’s Bills were
+introduced, of which just 24 (8%) received royal assent by the end of the session.
+○ This being said, 16 of the Private Member’s bills introduced by ballot at the start of
+the session (the most likely method of getting a PMB passed) were successful.
+■ Just 5 bills introduced through Presentation were successful and no
+ten-minute bills were successful.
+○ Successful bills included the Protection from Sex-based Harassment in Public Act
+and the Employment (Allocation of Tips) Act 2023, which ensures that all tips are
+guaranteed to workers.
+Protection from Sex-based Harassment in Public Act 2023:
+● The Protection from Sex-based Harassment in Public Act 2023 is an example of a Private
+Member’s Bill that was successfully passed on 18 September 2023, after receiving support
+from the government and opposition.
+○ It was introduced by ballot by Greg Clark, the Conservative MP for Tunbridge Wells.
+● The bill received substantial backing from various campaign groups, including Plan
+International UK and Our Streets Now, which had launched a 3 year campaign titled
+#crimenotcompliment.
+The Controlled Drugs Procedure Bill As An Example Of A Handout Private Members Bill:
+https://www.politicsexplained.co.uk/ 3
+● The Controlled Drugs (Procedure for Specification) Bill is a Private Members Bill introduced
+by backbench Labour MP Alex McIntyre, who was successful in the PMB ballot which took
+place. This would change the procedure for amending schedule 2 of the Misuse of Drugs
+Act 1971, which deals with the classification of banned substances and products.
+○ This is an example of a “handout bill” by the government, a bill drafted by
+government departments and offered to a backbencher to take forward as a PMB.
+○ This usually occurs for bills where the government hasn’t been able to find time in
+their legislative programme, allowing them to pass minor measures and technical
+changes to regulations.
+● This is a frequent criticism of PMB’s - instead of empowering backbenchers to represent
+key issues the government fails to address, they often serve as a means for the
+government whips to exert undue influence over backbenchers.
+○ Furthermore, typically only PMB’s which have government support will pass,
+reducing backbenchers power to affect true legislative change.
+The Passage Of the Terminally Ill Adults (End of Life) Bill As An Example Of Representative
+Democracy and Private Member’s Bills:
+● On Friday the 24th of November, the House of Commons passed the Terminally Ill Adults
+(End of Life) Bill 2024 through its 2nd reading. The bill passed with a majority of 55, and
+was introduced by Labour MP Kim Leadbeater as a Private Members Bill, after she came
+top of the PMB ballot.
+○ This bill legalised assisted dying for terminally ill adults in England and Wales, and
+is one of the most significant social reforms in a generation.
+● This highlights Parliament's legislative function, as backbenchers are able to propose and
+make significant changes to law via the PMB process. If an MP comes first in the ballot,
+their bill is debated first on sitting Fridays and they are most likely to advance legislation.
+● This also highlights Parliament's representative function. The vote was a "free vote"
+meaning MPs were allowed to vote with their conscience rather than along party lines.
+Despite polling showing 2/3rds of the public supported assisted dying, the vote was much
+closer.
+○ This shows how MPs fulfil the trustee model of representation and exercise their
+own judgement, rather than being beholden to the public's views.
+How A Bill Becomes A Law
+What happens before a bill enters the House of Commons stages?
+● Before bills are introduced they go through a consultation stage
+○ This can start with a consultation (Green Paper), which then may be turned into a
+firm proposal (White Paper), on which committees comment, before the bill is
+eventually drafted.
+In what order do bills go through the Commons, Lords and Crown?
+● If a bill starts in the Commons it goes through the Commons first, then the Lords, then back
+to the Commons to approve the Lords' amendments and then to royal assent providing the
+amendments are accepted.
+● It is the same if the bill starts in the Lords, but the Lords and Commons are switched.
+● The vast majority go through the House of Commons first.
+https://www.politicsexplained.co.uk/ 4
+What stages does a bill go through in the Commons before it goes to the Lords?
+1. First Reading - The bill is formally introduced to the House of Commons by a minister, a
+date is set for the second reading and the bill is printed up ready for the second reading.
+2. Second Reading - A minister outlines, explains and justifies the proposals and deals with
+general questions, the principles of the bill are discussed and contested by backbenchers
+and shadow ministers.
+a. If the bill is contested at this stage there is a vote, though the government almost
+always wins.
+3. Committee Stage - The bill is sent to a Public Bill Committee, a separate one of which is
+formed for each bill. The bill is scrutinised in detail and amended.
+a. Public Bill Committees range in size from 16-50 MPs and reflect the party
+composition of the House.
+i. This means that amendments at this stage are dominated by the
+government. Over 99% of ministerial amendments succeed at this stage,
+whilst less than 1% of non government amendments do.
+b. For especially important bills, especially finance bills, this scrutiny is done by the
+whole of the House of Commons. For example the Illegal Migration Bill.
+4. Report Stage - MPs can propose and vote on amendments on the floor of the house. The
+amendments suggested at committee stage are also voted on.
+5. Third Reading - There are no major amendments at this stage. The bill as a whole is looked
+at and debated, before being passed or rejected.
+What stages does a bill go through in the Lords after passing through the
+Commons?
+1. First Reading - The bill is introduced, a date is set for the second reading and the bill is
+printed up ready for the second reading.
+2. Second Reading - A minister outlines the proposals and deals with general questions, the
+principles of the bill are discussed.
+3. Committee Stage - In the Lords this is normally done in the chamber as a committee of the
+whole house. The bill is scrutinised in detail and amended.
+4. Report Stage - Peers can propose and vote on amendments on the floor of the house.
+5. Third Reading - If the bill is passed it moves towards the Royal Assent. If it is rejected or
+significantly amended then it returns to the Commons for consideration, going through all of
+the Commons stages again before returning to the Lords.
+https://www.politicsexplained.co.uk/ 5
+The Interaction Between The Commons and The Lords During The
+Legislative Process
+What Is The Key Role Of The House Of Lords In The Legislative Process
+● The House of Lords recognises its lack of democratic legitimacy and therefore doesn’t seek
+to exert all of the powers it could in the legislative process.
+○ Instead, it sees its role as offering technical amendments to improve and fix bills, as
+well as taking a stand against a bill when it feels it is justified, for example in terms
+of protecting rights or halting a bill that has garnered a huge public backlash and
+has limited public support.
+● If the House of Lords offers amendments which are then rejected by the House of
+Commons, the House of Lords often accepts its lack of democratic legitimacy and backs
+down.
+○ For example, the EU Withdrawal Agreement Act 2020 was sent back to the House
+of Commons with five amendments, including one guaranteeing the continuance of
+the ERASMUS scheme, however the House of Commons rejected all of these
+amendments and the Lords backed down, recognising the democratic legitimacy of
+the House of Commons and Brexit.
+🏓 What Is Parliamentary Ping Pong? 🏓
+● If either House makes amendments to a bill, the other House must consider them and
+agree to them before a bill is passed.
+○ If they fail to agree to them and make alternative proposals, then it must go back to
+the other House to be voted on again.
+● Bills can go back and forth between the House of Lords and House of Commons before
+both Houses reach agreement on the working of the bill.
+○ This is known as ‘Parliamentary Ping Pong’.
+● A good recent example of this is over the 2021 Trade Act, which established the Trade
+Remedies Authority.
+○ The House of Lords sought to introduce an amendment, supported by some in the
+Commons, to prevent UK governments from agreeing to trade deals with countries
+that had committed genocide, which the courts would decide.
+○ The Bill was introduced in the Commons in March 2020 and the Lords in July 2020.
+After this, it went back and forth between the two houses 6 times before receiving
+https://www.politicsexplained.co.uk/ 6
+royal assent on 29 April 2021. The House of Lords eventually backed down on its
+amendment.
+The Safety of Rwanda (Asylum and Immigration) Act’s Passage Through The Commons and
+Lords:
+● The Safety of Rwanda Bill was first introduced to Parliament as emergency legislation on 7
+December 2023.
+○ It passed its second reading on 12 December and after being considered by the
+committee of the whole house, the third reading on 17 January 2024, with just 11
+Conservative MPs voting against, including Braverman and Jenrick, who supported
+‘toughening up’ the act.
+○ The committee of the whole house leads to less detailed scrutiny than public bill
+committees, which are more focused and can call witnesses. The decision to have a
+committee of the whol house meant that this stage lasted just 2 days, enabling it to
+pass quicker.
+● The bill then went to the Lords, where it passed the committee and report stage, before
+being back to the Commons with a number of amendments.
+○ The House of Commons voted down all of the Lords amendments, which initiated
+parliamentary ping pong, where it went back and forth between the houses six times
+before the Lords eventually backed down and it was passed on 22 April 2024,
+recognising its lack of democratic legitimacy and therefore not wanting to block a
+key government policy.
+○ The proposed Lords amendments included ensuring that the bill adhered to
+international law and that judical review should be available to those who wanted to
+challenge their deportation.
+● This shows how there can be parliamentary ping pong on key pieces of legislation, but that
+the Lords often backs down against a determined government and Parliament, recognising
+its lack of legitimacy.
+○ Importantly, it also shows that the Lords doesn’t always use its power to delay
+legislation for a year, even if it disagrees with the bill.
+○ As the bill was introduced late on in the Parliament, there wouldn’t have been time
+for the Parliaments Act to be triggered to force through the bill after a year, as there
+would’ve been a general election by that time. Therefore, the Lords could’ve held
+out and blocked the bill if they wanted to.
+How Does The Salisbury Convention Limit The House Of Lords?
+https://www.politicsexplained.co.uk/ 7
+● The Salisbury Convention means that the House of Lords shouldn’t block any bill that fulfils
+a pledge in the government’s election manifesto by voting against it in the second or third
+reading.
+○ The Lords can offer technical amendments but cannot introduce ‘wrecking
+amendments’ which change the Government’s manifesto intention as proposed in
+the bill.
+○ The Lords must also give the Commons reasonable time to consider amendments
+and pass a bill.
+● There is disagreement within Lords as to whether the Convention should still apply during
+Coalitions and minority governments.
+○ It has largely been left up to individual peers to decide, though it caused fewer
+problems as may be expected as the Lords rarely blocks government proposals
+anyway.
+The House Of Lords (Hereditary Peers) Bill As An Example of The Salisbury Convention:
+● The House Of Lords (Hereditary Peers) Bill 2024 was introduced at First Reading on the
+5th of September 2024.
+○ The bill would remove the 92 hereditary peers in the upper chamber, and would fulfil
+a Labour Manifesto commitment.
+○ This reflects the Government's mission to modernise the upper chamber and
+democratise the Constitution.
+○ Currently, 92 hereditary peers sit in the House Of Lords. There is no other
+comparable Western Democracy which allows members to vote on laws and have a
+guaranteed seat in the Legislature by virtue of birth.
+● The Bill is likely to pass in 2025 and due to the Salisbury Convention, the Lords authority to
+block the bill is limited.
+● The Salisbury Convention means that the House of Lords, as an unelected chamber, defers
+to the House of Commons elected mandate and does not block government bills which fulfil
+specific manifesto commitments.
+○ This demonstrates a key power of the House of Commons relative to the House of
+Lords - the Lords is restricted in its ability to block the will of the commons,
+dominated by the government.
+● This makes the chamber more Democratically representative - Hereditary Peers make up
+only 0.001% of the UK’s population however represent 11.15% of the legislature (they are
+10,000x more represented than any other individual). Additionally only 2 of the 92
+Hereditary Peers are Labour.
+● This also increases social representation of the Lords - 100% of the 92 Hereditary Peers
+are male.
+○ This shows how currently, Parliament fails at its key function of representing the
+electorate.
+How Do The Parliament Acts of 1911 and 1949 Limit The House Of Lords?
+● The 1911 Parliament Acts was passed following a crisis over the budget. It had been
+convention that the Lords didn't interfere with matters of taxation since the 17th century,
+however they did in 1909 when the Liberal government tried to introduce new taxes on land
+and wealth, causing a constitutional crisis.
+○ The Act gave the House of Lords no right to delay financial bills and its previous
+power to veto non-financial bills was replaced by a power of delay lasting 2 years.
+● The 1949 Parliament Act was passed after the Lords opposed the Iron and Steel
+nationalisation bill included in Attlee's Labour manifesto.
+https://www.politicsexplained.co.uk/ 8
+○ The delaying power of the House of Lords was halved from 2 years to 1 year.
+Secondary Legislation
+● Bills, which turn into Acts of Parliament, are known as Primary Legislation.
+○ These Acts empower ministers to make further changes/regulations within the
+scope of the law after it has become law.
+● These regulations are known as secondary/delegated legislation and can be changed by
+ministers using ‘statutory instruments’, around 3,500 of which are introduced a year across
+all areas of government legislation.
+○ For example, statutory instruments are used to ban new substances by adding them
+to a list under the Misuse of Drugs Act 1971.
+○ In 2016, the government abolished maintenance grants for university students using
+secondary legislation.
+● Statutory Instruments are scrutinised by the Select Committee On Statutory Instruments,
+which considers whether they should be drawn to special attention of the House.
+○ The majority of statutory instruments are made law by ministers and automatically
+become laws unless objected to by Parliament, which is very rare.
+Early Prisoners Release as an Example of Secondary Legislation:
+● On the 12th of July 2024, the new Labour government approved a Statutory Instrument (a
+form of secondary legislation) to deal with the prisons crisis by allowing the early release of
+prisoners.
+○ This meant prisoners could be released after serving 40% of their term, rather than
+the previous 50%, allowing 1000's of prisoners to be released in order to tackle
+overcrowding.
+● The Statutory instrument was introduced by Justice Minister Shabana Mahmood, and was
+debated for 90 minutes in the commons.
+○ The use of secondary legislation, which does not require a full vote in Parliament, to
+implement significant and controversial policy change has prompted debate over
+whether there was a lack of effective scrutiny in Parliament.
+● This shows how Secondary Legislation is a key power of the executive, and allows them to
+have significant control over legislation and policy.
+Statutory Instrument Introducing Mandatory Gambling Levy and Stake Limits
+● On 27 November 2024, the government introduced a mandatory levy on bookmakers and
+casinos, alongside caps on online slot machine stakes, to address problem gambling and
+fund NHS services.
+○ The new levy is expected to generate £100 million annually, which will be allocated
+to research, prevention, and treatment of gambling-related harms.
+● This change was implemented through a statutory instrument under the Gambling Act
+2005, which grants the Secretary of State for Culture, Media, and Sport (DCMS) the power
+to regulate gambling operators and introduce financial obligations on the industry.
+○ The statutory instrument, titled the Gambling (Levy and Stake Limits) Order 2024,
+allows the government to amend regulations without the need for a full Act of
+Parliament.
+● A statutory instrument is a form of secondary legislation, meaning it does not require a full
+vote in Parliament and can be passed through either an “affirmative” or “negative”
+procedure.
+○ In this case, the government used the affirmative procedure, requiring approval from
+both Houses but without the extensive debate or scrutiny of primary legislation.
+https://www.politicsexplained.co.uk/ 9
+● This demonstrates the government’s ability to implement significant policy changes through
+secondary legislation, enabling swift action on pressing issues like gambling regulation
+without lengthy parliamentary processes.
+How The House Of Commons’ Legislative Scrutiny Has Decreased
+● MPs today spend a lot less time in the House of Commons debating legislation than they
+used to.
+○ MPs spent just 24% of their time in the chamber between 2006 and 2021, compared
+to 44% for Peers.
+○ Parliament can therefore be seen as relying on the House of Lords for scrutiny.
+● Just 27% of bills in the last five parliamentary sessions were subject to an oral evidence
+session at the committee stage, in which the committee calls in expert witnesses to give
+their views on the legislation.
+● Only around 10% of government bills passed by parliament receive pre-legislative scrutiny
+(when they’re Green/White Papers).
+● Especially in recent years, many bills are rushed through Parliament and receive little
+scrutiny from the House of Commons, as the Brexit Process and COVID-19 set precedents
+for legislating quickly and avoiding scrutiny.
+○ The Conservative government gave the Illegal Migration Bill just 2 days in the
+Committee of the Whole House.
+○ This compares to the 2016 Immigration Act, which had 15 committee sessions and
+received 55 written pieces of evidence.
+The Passenger Railway Services (Public Ownership) Act As An Example Of Poor Scrutiny:
+● The Passenger Railway Services (Public Ownership) Act was one of the Labour
+Government’s first legislative proposals introduced after the 2024 election.The act brinsg
+the franchised passenger rail services into public ownership when existing contracts end.
+This fulfils Labour's Manifesto promise to create “Great British Railways”.
+○ However, the legislative process for the act was criticised for being rushed and
+failing to allow MPs time for effective scrutiny.
+● The Bill was first introduced prior to the Parliamentary Recess, and received its Committee
+Stage and Third reading both on the 3rd of September.
+○ The Bill was scrutinised as a Committee of the Whole House, bypassing the
+line-by-line scrutiny provided by a Public Bill Committee.
+● As there were no amendments accepted, the Report Stage did not occur. The Legislative
+Process has been criticised for having limited scrutiny, providing no costings, and providing
+no evidence it would improve services.
+○ This highlights how the Government's power to control the Parliamentary timetable
+allows them to rush bills through the commons and evade scrutiny. This gives
+https://www.politicsexplained.co.uk/ 10
+backbench and opposition MPs less time to table amendments, have meaningful
+debate and challenge the government on specific provisions of the Bill.
+The Comparative Powers Of The House Of Commons And
+House Of Lords
+The Exclusive Powers Of The House Of Commons
+Bringing Down A Government
+● One key power held exclusively by the House of Commons is that they can hold a vote of
+no confidence and therefore bring down a government if the government loses, as they are
+forced to resign.
+○ The last time this happened was in 1979, when nationalist parties that were
+upholding a minority Labour government in a confidence and supply agreement
+withdrew their support, which brought down the Callaghan government and
+triggered the 1979 general election.
+Forming A Confidence And Supply Agreement
+● The House of Commons also has the exclusive power to uphold a minority government
+through a confidence and supply agreement.
+○ This is when one of the Conservatives/Labour doesn’t have a majority and doesn’t
+get a majority through a formal coalition (such as in 2010), but instead through a
+limited agreement with another party/parties that agree to keep them in government.
+○ The supporting smaller party promises to support the government in a vote of no
+confidence and to vote through the government’s budget (supply). In return they
+receive concessions.
+● In 2017, for example, the Conservative Minority Government used a confidence and supply
+agreement with the DUP (Democratic Unionist Party), in which the DUP agreed to support
+the Conservatives in votes of confidence and over budgets, in return for £1 billion of money
+pledged to Northern Ireland.
+Forcing Through Legislation
+● If the House of Lords refuses to change its position and pass a bill supported by the House
+of Commons, the House of Commons can as a last resort invoke the Parliament Act 1949
+after a year to force a bill through.
+○ This was used 3 times by the Blair government but hasn’t been used since and has
+only been used 7 times in total. Under Blair, it was used to:
+■ Changing the voting system for EU parliament elections, with the European
+Parliamentary Elections Act 1999.
+■ Equalising the age of consent to 16 for homosexuals and heterosexuals,
+with the Sexual Offences Act 2000
+■ Banning hunting with dogs, with the Hunting Act 2004.
+Passing Financial/Manifesto Legislation
+● The Salisbury Convention means that the House of Lords shouldn’t block any bill that fulfils
+a pledge in the government’s election manifesto by voting against it in the second or third
+reading.
+https://www.politicsexplained.co.uk/ 11
+○ The Lords can offer technical amendments but cannot introduce ‘wrecking
+amendments’ which change the Government’s manifesto intention as proposed in
+the bill.
+○ The Lords must also give the Commons reasonable time to consider amendments
+and pass a bill.
+● The Parliament Acts of 1911 and 1949 prevent the House of Lords from delaying financial
+bills.
+The Main Powers Of The House Of Lords
+Forcing A General Election After 5 Years
+● If the government seeks to stay on beyond 5 years without a general election, then the
+House of Lords has the legal power to force a general election. This is included in the 1911
+Parliament Act
+Scrutinising And Revising Legislation
+● Especially in recent years, when the government has increasingly rushed legislation
+through the House of Commons, the House of Lords has played a crucial role in
+scrutinising and revising legislation, as the government has less control over the
+Parliamentary timetable in the Lords.
+○ The House of Lords frequently offers technical amendments to improve and fix bills
+and is sometimes called an ‘amending chamber’.
+■ The government and House of Commons accept most of these
+amendments.
+The Product Regulation And Meteorology Bill As An Example Of House Of Lords Select
+Committees:
+● The Product Regulation And Meteorology Bill was introduced in early 2025 as part of the
+Labour Government’s "reset" with the EU. This bill contains huge delegated powers giving
+UK ministers the power to unilaterally align the UK with EU regulations, including through
+statutory instrument rather than primary legislation
+https://www.politicsexplained.co.uk/ 12
+○ That means MPs will have little ability to scrutinise or suggest amendments to the
+EU legislation being copied over, despite being potentially controversial and having
+wide ranging implications.
+● This has drawn significant criticism from the House of Lords Delegated Powers Committee
+and the House of Lords Constitution Committee for its lack of policy detail and the breadth
+of delegated powers it would allow - highlighting executive dominance over legislation,
+including through secondary legislation.
+○ The committee took oral and written evidence from stakeholders as well as
+questioning senior officials from the Department for Business and Trade. After this,
+they highlighted 6 clauses of the bill which would inappropriately shift legislative
+power from Parliament to the executive.
+● Following this, the Government made several concessions in the Lords including
+amendments to introduce consultation requirements before ministers make any regulations,
+and greater use of the affirmative procedure to approve statutory instruments meaning
+there would be a debate and a vote in both houses.
+○ This shows how Lords Select Committees can have a direct influence over
+legislation and force concessions from the government, limiting executive
+dominance in Parliament, as the work of select committees is evidence based and
+scrutiny is professional.
+○ It also shows how the House of Lords does the bulk of legislative scrutiny, as MPs
+have many other priorities and the government has a majority in the House of
+Commons and often encourages its MPs not to make amendments to bills.
+Delaying Non-Financial Legislation
+● Though the House of Lords often backs down if its amendments are rejected by the House
+of Commons, recognising its lack of democratic legitimacy, it sometimes doesn’t and takes
+a stand against a bill when it feels it is justified.
+○ This is often to protect human rights or in relation to a bill that has garnered a
+significant public backlash/has limited public support.
+● This delaying power can be very significant in influencing legislation, especially in
+emergencies when governments want to pass laws quickly.
+○ For example, in 2001 ten defeats in the House Lords led the government to remove
+incitement to religious hatred as an offence from its anti-terrorism legislation.
+■ The House of Lords argued it would’ve threatened rights.
+⬆ The Growing Power And Assertiveness Of The House Of Lords ⬆
+How The House Of Lords Has Become More Representative
+● Following New Labour’s reforms, the House of Lords is no longer dominated by hereditary
+peers, instead it is dominated by life peers who are there primarily as a result of their
+expertise and experience.
+○ It is also becoming increasingly socially representative as efforts have been made to
+appoint more women and ethnic minority peers. Of the 63 appointments made
+between 2000 and 2014, 13 were from a minority ethnic background.
+● Following New Labour’s reforms, the House of Lords also no longer has an in-built
+Conservative majority, with the crossbenchers ensuring no single party can get a majority.
+This leads to greater scrutiny than in the House of Commons.
+○ In March 2025, there are 273 Conservative members, 187 Labour members, 184
+Crossbenchers, and 78 Liberal Democrats out of a total of over 800 members in the
+House of Lords.
+https://www.politicsexplained.co.uk/ 13
+How The House Of Lords Has Become More Professional
+● Since New Labour’s reforms, the House of Lords has become a lot more professional.
+○ Many life peers are ex professional politicians who are able to provide leadership in
+the House of Lords and have experience in parliamentary scrutiny.
+■ Lord Andrew Adonis, for example, is a Labour peer who served as Secretary
+of State for transport under Gordon Brown.
+○ Many life peers are specialists from different fields, who can provide expertise on
+specific areas.
+■ Lord Mair, for example, is a geotechnical engineer and Professor of Civil
+Engineering at the University of Cambridge and he is able to bring this
+expertise to his role as chair of the House of Lords Science and Technology
+Committee.
+■ Lord Sugar was appointed to the House of Lords for his experience in
+business.
+● After the passing of the Human Rights Act in 1998, civil liberties has become a more
+significant part of UK politics.
+○ As the Lords has many lawyers and human rights experts, it has seen itself as the
+guardian of civil liberties, shown in their 2008 opposition to Labour's anti-terrorism
+legislation.
+James Timpson As An Example Of The House of Lords’ Expertise:
+● James Timpson’s appointment to the House of Lords and role as Minister of State for
+Prisons shows how the Lords, particularly through life peers, can bring specialist expertise
+into government and parliament.
+○ As CEO of the Timpson Group, he pioneered a progressive employment model,
+hiring ex-offenders to help them reintegrate into society. His first-hand experience in
+reducing reoffending through employment and rehabilitation provides the
+government with significant expertise.
+● This shows how the House of Lords allows experts from specific fields—including business,
+law, and social justice—to contribute directly to policymaking and scrutiny of legislation.
+○ Timpson’s appointment as a minister further demonstrates how the Lords can
+provide government ministers who do not necessarily have parliamentary
+experience, but bring deep sectoral knowledge to their roles.
+https://www.politicsexplained.co.uk/ 14
+○ His selection supports the argument that while the Lords is unelected, its ability to
+draw on expertise from outside politics adds value to both legislation and
+government decision-making.
+How The House Of Lords Has Become More Independent Of The Executive And
+Effective At Scrutiny
+● Especially since New Labour’s reform, the House of Lords has become more independent
+of the executive and more assertive in scrutinising the work of the government.
+○ As peers aren't elected, they don't need the party machine or party funding to
+remain in post, therefore there is less pressure to vote along party lines, as whips
+have little bargaining power.
+○ This leads to governments being defeated a great deal more in the House of Lords
+than they are in the House of Commons, especially when the government has a
+massive majority, in which case the Lords becomes the effective opposition.
+■ Tony Blair was defeated just 4 times in the House of Commons, all of which
+were in his last term, but was defeated 353 times in the House of Lords.
+■ Since the 2019 election, Boris Johnson was defeated just 4 times in the
+House of Commons but 243 times in the House of Lords, which was an
+unprecedentedly large number given the short amount of time he was in
+power.
+● The House of Lords also has more time, energy and expertise to devote to scrutinising
+government policy and legislation line by line.
+○ The Illegal Migration Act 2023 spent 2 days at committee stage in the House of
+Commons, but spent 21 days at committee stage in the House of Lords.
+○ Despite former Home Secretary Suella Braverman trying to assert the Salisbury
+Convention, the Lords defeated the bill 20 times.
+󰎾 The 2018 EU Withdrawal Bill 󰎾
+● The 2018 EU Withdrawal Bill introduced by Theresa May is a good example of how the
+House of Lords can be effective in challenging legislation when the government is weak
+and some members of the House of Commons support the amendments.
+○ In June 2018, the May government suffered 15 defeats in the Lords in connection to
+the EU Withdrawal Bill, with one amendment seeking to prevent Britain leaving the
+Customs Union and another ensuring parliament would have a meaningful vote on
+any Withdrawal Agreement reached with the EU.
+■ 6 were defeated in the Commons.
+■ 1 was accepted by the government (making sure that under law the UK
+would be able to copy new EU laws passed after the UK's exit and to
+participate in EU agencies if it chooses).
+■ The other 8 saw some form of compromise, conceding that a meaningful
+vote would have to be held and there would be no hard border on the island
+of Ireland.
+https://www.politicsexplained.co.uk/ 15
+🗣 The Debate Over The Relative Power Of The Two Houses 🗣
+Power Over Legislation
+Arguments That The House Of Commons Is More Powerful:
+● If the House of Lords refuses to change its position and pass a bill supported by the House
+of Commons, the House of Commons can as a last resort invoke the Parliament Act 1949
+after a year to force a bill through.
+● The House of Lords is limited in the legislation it can vote down and play a role in, whilst the
+House of Commons isn’t.
+○ The Salisbury Convention means that the House of Lords shouldn’t block any bill
+that fulfils a pledge in the government’s election manifesto by voting against it in the
+second or third reading.
+■ The Lords can offer technical amendments but cannot introduce ‘wrecking
+amendments’ which change the Government’s manifesto intention as
+proposed in the bill.
+■ The Lords must also give the Commons reasonable time to consider
+amendments and pass a bill.
+○ The Parliament Acts of 1911 and 1949 prevent the House of Lords from delaying
+financial bills.
+● Even when the House of Lords votes against legislation/attempts to significantly amend it, it
+often backs down when the House of Commons disagrees again/votes against these
+amendments, recognising its lack of democratic legitimacy.
+○ This occurred with the Safety of Rwanda Act in April 2024.
+Arguments That The House Of Lords Is More Powerful:
+● Though the House of Lords often backs down if its amendments are rejected by the House
+of Commons, recognising its lack of democratic legitimacy, it sometimes doesn’t and takes
+a stand against a bill when it feels it is justified.
+○ This is often to protect human rights or in relation to a bill that has garnered a
+significant public backlash/has limited public support.
+● This delaying power can be very significant in influencing legislation, especially in
+emergencies when governments want to pass laws quickly.
+● When the government has a large majority in the House of Commons, it is very unlikely to
+be defeated. By contrast, especially since New Labour’s reform, the House of Lords has
+become more independent of the executive and more assertive in scrutinising the work of
+the government.
+○ This leads to governments being defeated a great deal more in the House of Lords
+than they are in the House of Commons, especially when the government has a
+massive majority, in which case the Lords becomes the effective opposition.
+https://www.politicsexplained.co.uk/ 16
+Scrutiny Of The Government
+Arguments That The House Of Lords Is More Powerful:
+● Especially in recent years, when the government has increasingly rushed legislation
+through the House of Commons, the House of Lords has played a crucial role in
+scrutinising and revising legislation, as the government has less control over the
+Parliamentary timetable in the Lords.
+○ The House of Lords frequently offers technical amendments to improve and fix bills
+and is sometimes called an ‘amending chamber’.
+■ The government and House of Commons accept most of these
+amendments.
+● Since New Labour’s reforms, the House of Lords has also become a lot more professional
+and has significant expertise, which allows highly effective scrutiny of government
+legislation.
+○ The House of Lords also has more time, energy and expertise to devote to
+scrutinising government policy and legislation line by line.
+○ The Agriculture Act 2020 received 32 hours of scrutiny in the House of Commons
+and 96 hours of scrutiny in the House of Lords.
+● The House of Commons spends little time scrutinising government legislation, whilst the
+fact that MPs are whipped and public bill committees reflect the balance of the house, and
+therefore have a government majority, limit the effectiveness of House of Commons
+scrutiny.
+Arguments That The House Of Commons Is More Powerful:
+● The House of Commons can also be seen as providing effective non-legislative scrutiny in
+a number of ways, including select committees, ministers’ questions and debates.
+● The democratic legitimacy of the House of Commons’ legislative scrutiny leads to it being
+more effective, whilst it also has the exclusive power to vote down financial legislation and
+legislation included in the government’s manifesto.
+● Public Bill Committees in the House of Commons do provide effective scrutiny.
+https://www.politicsexplained.co.uk/ 17
+Debates and Key Non-Legislative Powers Of Both Chambers
+Arguments That The House Of Commons Is More Powerful:
+● A key power held exclusively by the House of Commons is that they can hold a vote of no
+confidence and therefore bring down a government if the government loses.
+● The House of Commons also has the exclusive power to uphold a minority government
+through a confidence and supply agreement.
+● The House of Commons can also exert influence through debates, which put issues on the
+political agenda and put pressure on the government to address them.
+○ There are a number of different types of debates, including emergency debates and
+debates suggested by the Backbench Business Committee, which chooses the
+topic of debate for 35 days in each parliamentary session.
+Arguments That The House Of Lords Is More Powerful:
+● The House of Lords can also play a key role in raising the importance of issues through
+debates. These debates are often insightful and considered due to the significant expertise
+within the chamber.
+○ They can have influence by considering issues that are not focused on by the
+House of Commons due to the greater time that the House of Lords has. This can
+help to put them on the political agenda.
+■ For example, on January 18 2024, the House of Lords held a number of key
+debates on important issues including climate change, refugee integration,
+religious education in schools, the adoption of new vaccines, and creating
+parity between health and social care to address dementia.
+■ This format of short debates allows the Lords to cover a range of important
+topics, leveraging their expertise to bring attention to and influence public
+policy on these issues.
+● The House of Lords also has the legal power to force a general election if the government
+tries to stay on beyond 5 years. This is given to it in the Parliament Act 1911.
+Follow Politics Explained For More Help With Your Politics A
+Level
+🌐 Website → https://www.politicsexplained.co.uk/
+📷 Instagram → https://www.instagram.com/polexplained/
+📺 YouTube → https://www.youtube.com/channel/UCQ1FvoFVL4fGJkx6dup3O-w
+🐦 Twitter → https://twitter.com/Pol_Explain
+https://www.politicsexplained.co.uk/ 18
+https://www.politicsexplained.co.uk/ 19
