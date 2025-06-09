@@ -1,0 +1,3 @@
+#separator:tab
+#html:true
+How do liberals and realists differ on the impact of constitutional characteristics of states?	<ul><li>Realists believe state is merely motivated by the 'wish to survive' (Waltz, 2004) and therefore characteristics make no difference to external behaviour</li><li>Liberals insist that constituional makeup has a impact on external behaviour - democratic states are inherently more peaceful than non democratic states (Doyle 1986) -</li><li>'Complex interdependence' means states are less likely to threaten economic growth (Keohane and Nye, 1977)</li></ul>

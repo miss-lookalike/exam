@@ -1,0 +1,5 @@
+#separator:tab
+#html:true
+"What does the <a href=""https://en.wikipedia.org/wiki/Treaty_of_Lisbon"">Treaty of Lisbon</a> (2007) do?"	<ul><li>Confirms the power of the EU to act in areas of human rights, judicial and foreign policy</li><li>Expands use of QMV</li><li>Strenghens EU independence by giving it a legal personality (able to sign international treaties).&nbsp;</li></ul>
+"<img src=""paste-3f2545adb4b3fcb9e57b40a9c137a0ba97533bea.jpg""><br><img src=""paste-83dfe12f991cfea07e3ba9b4c1c01a0438e58943.jpg"">"	
+Why was the EU given the nobel peace prize in 2012?	<ul><li>Because it has stopped war breaking out in Europe</li></ul>

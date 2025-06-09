@@ -1,0 +1,91 @@
+#separator:tab
+#html:true
+How do liberals see human nature?	<ul><li>Humans are self seeking and individualistic, but they are governed by <b>reason and rationality</b>. (John Locke)</li><li>Therefore they understand that it is in their rational interest to co-operate and live harmoniously. Conflicts should be resolved by debate and negotation, not war and aggression. Principles like the rule of law should be upheld. Human rights and social progress should be persued.&nbsp;</li></ul>
+"According to Morgenthau,&nbsp;<ul><li><div><div><div><div><div>‘the social world is but a projection of <span class=""cloze"" data-cloze=""human&#x20;nature&#x20;onto&#x20;the&#x20;collective&#x20;plane"" data-ordinal=""1"">[...]</span>’. (<span class=""cloze"" data-cloze=""1962"" data-ordinal=""1"">[...]</span>)</div></div></div></div></div></li></ul>"	"According to Morgenthau,&nbsp;<ul><li><div><div><div><div><div>‘the social world is but a projection of <span class=""cloze"" data-ordinal=""1"">human nature onto the collective plane</span>’. (<span class=""cloze"" data-ordinal=""1"">1962</span>)</div></div></div></div></div></li></ul><br>
+"
+What do realists priortise according to realists?	<ul><li>Prioritise the national interest over all - state survial, state security and self help (Morgenthau, 6 Principles of realism, 1948)</li><li>Ethnical considerations are excluded from foreign policy making.&nbsp;</li></ul>
+Why do liberals believe that autocratic and authoritarian states are more aggressive than democratic states?	<ul><li>Authoratarian states are immunized from popular pressure and typically have strong and powerful armies. They are accustomed to use to the use of force to maintain power, force becomes the natural mechanism through which they deal with the wider world and resolve disputes. - (Doyle 1986).&nbsp;</li></ul>
+Who came up with the idea of 'complex interdependence' and when?	<ul><li>Robert Keohane and Joseph Nye (1977)</li></ul>
+What are the 6 Main principles of liberalism?	"<div>
+<div>
+<div>
+<div>
+<ul>
+<li>
+<div><span style=""color: rgb(102, 255, 204);"">! &nbsp;</span>Human beings are rational and moral creatures.
+</div>
+</li>
+<li>
+<div><span style=""color: rgb(102, 255, 204);"">! &nbsp;</span>History is a progressive process, characterized by a growing prospect of
+</div>
+<div>international cooperation and peace.
+</div>
+</li>
+<li>
+<div><span style=""color: rgb(102, 255, 204);"">! &nbsp;</span>Mixed-actor models of global politics are more realistic than state-centric
+</div>
+<div>ones.
+</div>
+</li>
+<li>
+<div><span style=""color: rgb(102, 255, 204);"">! &nbsp;</span>Trade and economic interdependence make war less likely.
+</div>
+</li>
+<li>
+<div><span style=""color: rgb(102, 255, 204);"">! &nbsp;</span>International law helps to promote order and fosters rule-governed behav-
+</div>
+<div>iour among states.
+</div>
+</li>
+<li>
+<div><span style=""color: rgb(102, 255, 204);"">! &nbsp;</span>Democracy is inherently peaceful, particularly in reducing the likelihood of
+</div>
+<div>war between democratic states.&nbsp;</div>
+</li>
+</ul>
+</div>
+</div>
+</div></div>"
+What are the main ideas of liberalism?	"<div>
+<div>
+<div>
+<div>
+<ul>
+<li>
+<div>The significance of morality and
+optimism on human nature.
+</div>
+</li>
+<li>
+<div>Possibility of harmony and
+balance.
+</div>
+</li>
+<li>
+<div>Complex interdependence.
+</div>
+</li>
+<li>
+<div>Likelihood of global governance.
+</div>
+</li>
+<li>
+<div>Impact and growth of international
+organisations.&nbsp;</div>
+</li>
+</ul>
+</div>
+</div>
+</div></div>"
+How does collective security prevent war?	"<div>
+<div>
+<div>
+<div>
+<div>Collective security will ensure
+that aggressive states will find the
+cost of war to be too great, with the
+prospect of victory too small, and so
+military conflicts will be avoided.&nbsp;</div>
+</div>
+</div>
+</div></div>"

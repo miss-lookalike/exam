@@ -1,0 +1,22 @@
+#separator:tab
+#html:true
+"What impact did the Cassis De Dijon case have on sovereignty?<br><img src=""paste-23a1302ab9bc926413b813d47d484131f6554dc6.jpg"">"	<ul><li>The German authorities introduced a rule insisting that fruit liquers must be a certain alcohol strength, which Cassis De Dijon was not.</li><li>The ban was deemed unlawful by the ECJ in 1979 as it was considered a protectionist move by Germany to preserve the market for its own fruit liqueurs and Schnapps.&nbsp;</li><li>The EU single market requires free movement of goods.&nbsp;</li></ul>
+How is the EU retaliating against the illiberal behaviour of Hungary and Poland?&nbsp;	"<ul><li>The EU has <a href=""https://www.washingtonpost.com/business/how-eu-is-withholding-funding-to-try-to-rein-in-hungary-poland/2022/12/30/ba3641fc-8818-11ed-b5ac-411280b122ef_story.html"">witheld funding from</a> both states for their attacks on democracy and independent judiciaries.&nbsp;</li></ul>"
+"<img src=""paste-583dc58f04bb4f0a0c232f80b61843b5a31e66b3.jpg"">"	
+What percent of EU regulation uses QMV?	<ul><li>80% of legislation put before the Council of the European Union is QMV&nbsp;</li></ul>
+What is the qualified majority required?	"<div>
+<div>
+<div>
+<div>
+<ul>
+<li>
+<div>55 per cent of member states (16 out of 28) must agree to the decision and
+</div>
+</li>
+<li>
+<div>the measure is supported by at least 65 per cent of the population of the EU.&nbsp;</div>
+</li>
+</ul>
+</div>
+</div>
+</div></div>"

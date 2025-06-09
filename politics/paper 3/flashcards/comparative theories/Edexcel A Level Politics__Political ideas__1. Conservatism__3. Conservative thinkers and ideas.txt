@@ -1,0 +1,238 @@
+#separator:tab
+#html:true
+"According to Oakeshott, 'to be a Conservative is <span class=""cloze"" data-cloze=""to&#x20;prefer&#x20;the&#x20;tried&#x20;to&#x20;the&#x20;untried&#x27;"" data-ordinal=""1"">[...]</span>"	"According to Oakeshott, 'to be a Conservative is <span class=""cloze"" data-ordinal=""1"">to prefer the tried to the untried'</span><br>
+"
+What did Edmund Burke say about tradition?	"<div>
+<div>
+<div>
+<div><ul><li>he famously stated that society was a ‘partnership not only between
+those who are living, but between those who are living, those who are dead and those who are to
+be born’.&nbsp;</li><li>Each generation has a solemn duty to safeguard and pass on the accumulated wisdom of
+tradition to the next generation.&nbsp;</li></ul></div>
+</div>
+</div>
+</div>"
+What did Disraeli warn (1804-1881)?	"<ul><li>One nation paternalistic conservatism can be traced back to Benjamin Disraeli.&nbsp;</li><li>Disraeli warned that Britain was dividing into two nations - The rich and the poor. Increased likelihood of social revolution.&nbsp;</li><li><span style=""background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"">“two nations between whom there is <b>no intercourse and no sympathy</b>, who are as ignorant of each other’s habits, thoughts and feelings, as if they were dwellers in different zones, or inhabitants of different planets”</span><br></li></ul>"
+How did Disraeli believe that social revolution could be averted?	<ul><li>Privileged in society recognise their obligation to look after the less fortunate.&nbsp;</li><li>This would help preserve their advantages, but also alleviate hardships of working class and strenghen social cohesion and stability of nation.&nbsp;</li><li>Blending of self interest with principle</li></ul>
+How did Benjamin Disraeli feel about capitalism?	<ul><li>Felt that capitalism encouraged egotistical individualism, undermined social responsibility and threatened to split Britain into two nations - rich and poor.</li><li>If left unaddressed, the division would lead to class conflict, declining sense of community, national idenitity and possibly revolution</li></ul>
+What are the three main features of Disraeli's one nation conservatism?	<ul><li><b>Maintenance of traditional institions</b> - e.g. Monarchy and Church. Provides stability, offers focus for national pride and loyalty.&nbsp;</li><li><b>Imperliaism</b> - source of national pride, global influence</li><li><b>Reforms to introduce conditions for the working class -&nbsp;</b>remove the possibility of revolution<br></li></ul>
+What did Harold Macmillian advocate for?	"<ul><li>A 'middle way' between capitalism and socialist collectivism.&nbsp;</li><li><div>
+<div>
+<div>
+<div>
+<div>Combined ‘state ownership, regulation or control of certain aspects of
+economic activity with the drive and initiative of private enterprise’.&nbsp;&nbsp;</div></div></div></div></div></li><li>Economic policy to 'bring together Disraeli's two nations into a single economic entity'&nbsp;</li></ul>"
+Why did Milton Friedman disapprove of Keynesian policies?	<ul><li>Keynesian policies to stimulate demand&nbsp;<b>create inflation&nbsp;</b>by encouraging governments to print too much money or provide too much credit.&nbsp;</li><li>His solution, known as monetarism, is for government to reduce inflation by controlling the money supply through cuts in public spending.&nbsp;</li><li>Both Thatcher and Raegan persued monetarist policies to tackle inflation. They believed that the market would address the problem of mounting unemployment</li></ul>
+What were Thomas Hobbes' key ideas (1588-1679)	<ul><li>Order - an ordered society should balance the human need to lead a free life.&nbsp;</li><li>Social breakdown and civil war are the biggest dangers to society - therefore law and order (even by a tyrant) above all other principles</li><li>Humans are needly, vulnerable and easily led astray in atttempts to understand the world around them&nbsp;</li><li>In Leviathan (1651), Hobbes argued for total obedience to absolute government, as the only alternative was chaos.&nbsp;</li></ul>
+What would happen in Hobbes' state of nature?	<ul><li>Where there is no Leviathan, humans would exhibit a 'restless desire' for power,(human imperfection) leading to conflict and a state of nature where there is a 'war of all against all'. - where life is nasty, brutish and short</li></ul>
+How do individuals avoid a state of nature according to Hobbes?	<ul><li>Fearful, self interested and rational people would sacrifice many of their rights and enter into a social contract with a leviathan that can guarentee security.&nbsp;</li></ul>
+How does Hobbes see human nature?	<ul><li>Egotistical and selfish - People compete violently to maximise their benefits.&nbsp;</li><li>Easily led astray - humans are intellectually imperfect</li></ul><div>Strong government is the only way of restraining these threats&nbsp;</div>
+"According to Thomas Hobbes, ‘How could a state be
+governed, or protected in its foreign
+relations if <span class=""cloze"" data-cloze=""every&#x20;individual&#x20;remained&#x20;free&#x0A;to&#x20;obey&#x20;or&#x20;not&#x20;to&#x20;obey&#x20;the&#x20;law"" data-ordinal=""1"">[...]</span> according to
+his <span class=""cloze"" data-cloze=""private&#x20;opinion"" data-ordinal=""1"">[...]</span>?’"	"According to Thomas Hobbes, ‘How could a state be
+governed, or protected in its foreign
+relations if <span class=""cloze"" data-ordinal=""1"">every individual remained free
+to obey or not to obey the law</span> according to
+his <span class=""cloze"" data-ordinal=""1"">private opinion</span>?’<br>
+"
+"According to Edmund Burke, ‘It is with infinite caution
+that any man ought to venture upon
+<span class=""cloze"" data-cloze=""pulling&#x20;down&#x20;an&#x20;edifice"" data-ordinal=""1"">[...]</span> which has
+answered in any tolerable degree for ages
+the common purposes of society, or on
+building it up again without having <span class=""cloze"" data-cloze=""the&#x0A;model&#x20;and&#x20;patterns&#x20;of&#x20;approved&#x20;utility&#x0A;before&#x20;his&#x20;eyes&#x2E;’"" data-ordinal=""1"">[...]</span>"	"According to Edmund Burke, ‘It is with infinite caution
+that any man ought to venture upon
+<span class=""cloze"" data-ordinal=""1"">pulling down an edifice</span> which has
+answered in any tolerable degree for ages
+the common purposes of society, or on
+building it up again without having <span class=""cloze"" data-ordinal=""1"">the
+model and patterns of approved utility
+before his eyes.’</span><br>
+"
+What were Edmund Burke's (1729-97) key ideas?	"<div>
+<div>
+<div>
+<div>
+<span style=""font-style: italic;"">Reflections on the Revolution in France
+</span>(1790)&nbsp;<br><ol>
+
+</ol></div>
+</div>
+</div></div><ul><li>Political change should be undertaken with great caution - mindful of the delicate balance in an organic society. Custom and tradition prioritised</li><li>Tradition and empiricm - should be respected because they are knowledge passed down between generations.&nbsp;</li><li>Accepted 'change in order to conserve' - society had to have some flexibility or it would not surive. E.g. Ancien regime.</li></ul>"
+Why did Edmund Burke not like the French revolution?	"<div>
+<div>
+<div>
+<div>
+<span style=""font-style: italic;"">Reflections on the Revolution in France
+</span>(1790)&nbsp;<br><ol>
+
+</ol></div>
+</div>
+</div></div><ul><li>Attempt to create a new society based on abstract principles (e.g. liberty and equality) rather than lessons of the past.&nbsp;<br></li><li>Traditions that are not well established could only lead to chaos and tyranny.&nbsp;</li><li>State is like an organism that can only be reformed by gentle 'pruning'. Reform should be limited and cautious. Revolutuionary change threatens to cut off society's 'root's'</li></ul>"
+"According to Edmund Burke, <br>‘we procure
+reverence to our civil institutions on the principle which Nature teaches us to revere <span class=""cloze"" data-cloze=""individual&#x0A;men"" data-ordinal=""1"">[...]</span>: on account of their <span class=""cloze"" data-cloze=""age"" data-ordinal=""1"">[...]</span>, and on account of <span class=""cloze"" data-cloze=""those&#x20;from&#x20;whom&#x20;they&#x20;are&#x20;descended"" data-ordinal=""1"">[...]</span>’.&nbsp;<div><div><div><div><ol>
+
+</ol></div>
+</div>
+</div></div>"	"According to Edmund Burke, <br>‘we procure
+reverence to our civil institutions on the principle which Nature teaches us to revere <span class=""cloze"" data-ordinal=""1"">individual
+men</span>: on account of their <span class=""cloze"" data-ordinal=""1"">age</span>, and on account of <span class=""cloze"" data-ordinal=""1"">those from whom they are descended</span>’.&nbsp;<div><div><div><div><ol>
+
+</ol></div>
+</div>
+</div></div><br>
+"
+What are Micheal Oakeshott's (1901-1990) main ideas? What does he see about human nature?	"<div>
+<div>
+<div>
+<div>
+<span style=""font-style: italic;"">Rationalism in Politics </span>(1962) and <span style=""font-style: italic;"">On Human Conduct </span>(1975).&nbsp;<br><ol>
+
+</ol></div>
+</div>
+</div></div><ul><li><b>Humans are imperfect - do not have mental faculties to make sense of complex modern world</b><br></li><li>Theories and ideologies oversimplify complex situations&nbsp;</li><li>Therefore actions should be guided by pragmatism and practical experience, rather than ideology</li></ul>"
+What did Oakeshott think about the Bolsheviks and Fascists?	<ul><li>Clear examples of misguided human rationalism in politics.&nbsp;</li><li>A foolish oversimplification</li></ul>
+What did Oakeshott thank about rationalism?	"<ul><li>Rationalist politics is based on abstract principles and systems of ideological thought.&nbsp;</li><li><div>
+<div>
+<div>
+<div>
+<div>Rationalist politics leads to
+destruction and the creation of
+a new political and social order.</div>
+</div>
+</div>
+</div></div></li><li><div>Parliamentary instituions devoped pragmatically and have existed for centuries&nbsp;</div></li></ul>"
+Why does Oakeshott believe in a pragmatic approach?	"<div>
+<div>
+<div>
+<div>
+<ul>
+<li>
+<div>can deliver what is in the best interests of the people without overstepping the limits of public acceptance
+</div>
+</li>
+<li>
+<div>maintains social stability and cohesion by emphasising moderation, cautious change where necessary, and a sense of
+</div>
+<div>historical continuity
+</div>
+</li>
+<li>
+<div>is flexible, reflecting complex and shifting social realities, unlike rigid theories and ideologies which encourage dogmatic
+decision-making.&nbsp;</div>
+</li>
+</ul>
+</div>
+</div>
+</div></div>"
+What are Ayn Rand 's(1905-82)main ideas?	"<div>
+<div>
+<div>
+<div><div>
+<div>
+<div>
+<div>
+<div> <span style=""font-style: italic;"">The Fountainhead </span>(1943)
+and <span style=""font-style: italic;"">Atlas Shrugged </span>(1957).&nbsp;</div>
+</div>
+</div>
+</div></div></div><ul>
+<li>
+<div>Objectivism –this
+advocates the virtues of
+rational self-interest as the highest moral aim. People should work hard to achieve purpose and productivity. Achieves the best outcomes for society. She called it '<a href=""https://www.theguardian.com/books/2017/apr/10/new-age-ayn-rand-conquered-trump-white-house-silicon-valley"">the virtue of selfishness'</a>&nbsp;or 'ethical egoism'</div>
+</li>
+<li>
+<div>Freedom - she called herself a 'radical for capitalism' and called for 'a full, pure uncontrolled, unregulated laissez faire economy'. This achieves the best outcomes</div></li>
+</ul>
+</div>
+</div>
+</div>"
+What did Ayn Rand think about regulation?	"<div>
+<div>
+<div>
+<div><ul><li><div>Rand hated it&nbsp;</div></li><li><div>
+<div>
+<div>
+<div>
+<div>Rand referred to
+this opposition to external coercion of the individual as the ‘<b>non-aggression principle</b>’.&nbsp;&nbsp;</div>
+</div>
+</div>
+</div></div></li><li>Any attempt, said Rand, to control or regulate an individual’s actions corrupted the capacity
+of that person to work freely as a productive member of society, mainly by undermining his
+or her practical use of reason&nbsp;</li><li>Hence why low taxation</li></ul></div>
+</div>
+</div>
+</div>"
+Why did Ayn Rand condemn alturism?	<ul><li>Because it creates an 'artificial' sense of obligation and expectation, and did not accord with an individual's rational self interest.&nbsp;</li><li><br></li></ul>
+What were Robert Nozick's (1938-2002) main ideas?	"<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<span style=""font-style: italic;"">Anarchy, State, and Utopia </span>(1974), - minimal state<br><ol>
+
+</ol></div>
+</div>
+</div></div><ul><li>
+<div>Libertarianism–based
+on Kant’s idea that
+individuals in society
+cannot be treated as a
+thing, or used against
+their will as a resource. They are means in of themselves</div>
+</li>
+<li>
+<div>Self-ownership –
+individuals own their
+bodies, talents, abilities
+and labour.&nbsp;</div></li><li><div>Concern over the role of the state and wealth distribution. Individuals should have as much liberty 'taxation is theft'&nbsp;</div></li></ul>
+</div>
+</div>
+</div>"
+Why does Nozick support Kant's ideas	"<div>
+<div>
+<div>
+<div><ul><li>The assumption that individuals are inviolable end in
+themselves, Nozick argued, gives them rights to their lives, liberty and the rewards resulting
+from their labour.</li><li>&nbsp;According to Nozick, these rights act as ‘side-constraints’ on the actions of
+others by setting limits on how a person may be treated.</li><li>For example, an individual cannot
+be forced against his or her will to work for another person’s purposes (even if those purposes
+are good). - hence why 'taxation is theft or a form of forced labour''</li></ul></div>
+</div>
+</div>
+</div>"
+Why are taxes immoral according to Nozick?	"<div>
+<div>
+<div>
+<div>
+<ul>
+<li>
+<div>they amount to a type of forced labour imposed on the individual by the state
+</div>
+</li>
+<li>
+<div>they treat individuals as a means or resource to further the goals of equality and
+social justice and, in so doing, violate the principle that humans should be seen
+as better ends in themselves.&nbsp;</div>
+</li>
+</ul><div>Therefore, the only state that can be morally justified is a 'nightwatchman' state&nbsp;</div>
+</div>
+</div>
+</div></div>"
+Why did Nozick believe that taxation violated self ownership?	<ul><li>Taxation gives others an entitlement to reap the benefits of an individuals Labour.&nbsp;</li><li>This makes taxation a form of slavery. Citizens entitled to benefits become partial owners of the individual since they have partial property rights over his or her labour.&nbsp;</li></ul>
+What did Nozick think about the state telling people what to do?	"<div>
+<div>
+<div>Anything
+more extensive than the minimal state also compromises self-ownership. For example, a state
+that regulates what people eat, drink, or smoke interferes with their right to use their self-
+owned bodies as they want.&nbsp;<br><ol>
+
+</ol></div>
+</div>
+</div>"
+According to Ayn Rand, the New York Skyline is the...&nbsp;	Will of man made visible
